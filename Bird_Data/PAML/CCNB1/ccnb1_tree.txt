@@ -1,0 +1,3 @@
+13 4
+
+(((Parus_major,Cyanistes_caeruleus),((Catharus_ustulatus,Ficedula_albicollis),((Corvus_moneduloides,(Lonchura_striata_domestica,Camarhynchus_parvulus)),Serinus_canaria))),(Anas_platyrhynchos,(Coturnix_japonica,((Phasianus_colchicus,Meleagris_gallopavo),Gallus_gallus))));
