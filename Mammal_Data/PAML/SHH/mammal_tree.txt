@@ -1,0 +1,2 @@
+16	1
+((((Canis_lupus_familiaris,Equus_caballus),((Bos_taurus,Ovis_aries),Sus_scrofa)),Eptesicus_fuscus),((Rattus_norvegicus,Mus_musculus),((Callithrix_jacchus,(((Gorilla_gorilla,(Homo_sapiens,(Pan_paniscus,Pan_troglodytes))),Pongo_pygmaeus),Macaca_mulatta)),Tupaia_chinensis)));
