@@ -1,0 +1,3 @@
+24	4
+
+(Apteryx_rowi,(((((Melopsittacus_undulatus,Strigops_habroptila),((Lepidothrix_coronata,(Parus_major,(Camarhynchus_parvulus,((Taeniopygia_guttata,Lonchura_striata_domestica),(Serinus_canaria,Motacilla_alba_alba))),Corvus_moneduloides)),(Hirundo_rustica,(Ficedula_albicollis,Catharus_ustulatus)))),Aquila_chrysaetos_chrysaetos),(Calidris_pugnax,Columba_livia)),((Anas_platyrhynchos,Anser_cygnoides_domesticus),(((Gallus_gallus,(Phasianus_colchicus,Meleagris_gallopavo)),Coturnix_japonica),Numida_meleagris))));
