@@ -1,0 +1,3 @@
+27 4
+
+((Struthio_camelus_australis,(Nothoprocta_perdicaria,(Apteryx_rowi,Dromaius_novaehollandiae))),(((Calidris_pugnax,Columba_livia),((Athene_cunicularia,Aquila_chrysaetos_chrysaetos),((Melopsittacus_undulatus,Strigops_habroptila),(((Hirundo_rustica,Parus_major),((Catharus_ustulatus,Ficedula_albicollis),((Corvus_moneduloides,((Taeniopygia_guttata,Lonchura_striata_domestica),Camarhynchus_parvulus)),(Motacilla_alba_alba,Serinus_canaria)))),Lepidothrix_coronata)))),(Anas_platyrhynchos,((Coturnix_japonica,((Phasianus_colchicus,Meleagris_gallopavo),Gallus_gallus)),Numida_meleagris))));
