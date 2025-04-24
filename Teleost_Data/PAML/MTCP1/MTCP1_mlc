@@ -1,0 +1,821 @@
+     23    153
+
+XM_0307935                      ATG TCA CAA AAA GAC CCA TGT CAG AGG CAG GCA TGT GCA ATA CAA AAA TGT TTA CAA GAA AAC AGA TAT GTT GAA AGT CGA TGT GAA GAC GTC ATA AAG GCG ATG CGA GAA TGT TGC GAG CTT GAA TCA GTC TGC TGC TCC GGT AAG TCG GAA 
+XM_0128256                      ATG CCT CTG AAA GAT CCA TGC CAG AAA CAA GCT TGT GAA ATT CAG AAA TGT TTA CAA GCA AAC AAA TAT ATC GAG AGC CGC TGC GCC GAT GTG ATC CAG GCA ATG CGC AAG TGT TGC GCA GCA AAT TCG GTC TGT TGC TCG GGA AAA GCT GAG 
+XM_0083292                      --- --- --- --- --- --- --- --- --- --- GCA TGT GAG ATT CAG AAG TGT TTA CAA GCC AAC CGT TAC TTG GAG AGC ATG TGT CAG GAA GTG ATC CGA GAG ATG CGA CGT TGC TGC GAG ACA AAA TCT CTT TGC TGC TCC GGC AGG GCG GAG 
+XM_0691934                      ATG TCC CAG AAA GAT CCT TGC CAA AAG CAG GCA TGT GAA ATC CAA AGA TGT TTA CAA GCC AAC AAA TAT ATT GAG AGC AAG TGT GAA GAT GTG ATT GAA GCA ATG AGG CAG TGC TGC AGG TTT AAG TCT GTC TGC TGT TCA GGA AAG CAA GAG 
+XM_0187522                      ATG CCT CAG AAA GAC CCG TGT CAG AAA CAA GCC TGC GCA ATT CAG AAA TGT TTG CAA GCT AAC AAG TAC GTG GAG AGC CAG TGT GAA AAA GAG ATC CTG GAA ATG CAG CGG TGC TGC GAG GCA CAT TCT GTC TGC TGT TCT GGA AAA ACT GAG 
+NM_0013030                      ATG TCA CAG AAA GAT CCA TGT CAA AAA CAG GCC TGC GCC ATA CAG AAA TGT TTA CAA GCT AAC AGA TAC ATT GAA AGC CGC TGT GAG GAT GTG ATT CGG GCT ATG AAG AAG TGC TGT GAG CTC AAC TCT GTC TGC TGC TCT GGA AAA ACA GAC 
+XM_0072470                      ATG TCA CAG AAG GAC CCG TGT CAG AAG CAG GCG TGT GCC ATC CAG AAA TGT CTA CAA GCT AAC AAA TAC ATT GAA AGT CGA TGT GTG GAT GTG ATC CGG GCC ATG CGG AAA TGC TGC GAA TCC AAC TCA GTG TGC TGT TCT GGC AAA GCT GAA 
+XM_0177010                      ATG CCA CAG AAG GAT CCC TGT CAG AAA CAG GCG TGT GCG ATT CAG AAG TGT TTA CAA GCC AAC AAA TAC ATT GAA AGC CGC TGT GAG GAC GTG ATC CGG GCC ATG CGA CAA TGC TGC GAA ACC AAC TCT GTT TGC TGC TCC GGC AGA ACC GAG 
+XM_0270193                      ATG TCT CAG AAG GAT CCT TGT CAG AAG CAA GCG TGT GCG ATA CAG AAA TGC TTA CAA GCC AAC AAG TAT GTT GAA AGT CGG TGT GAA GAA GTA ATT CGT GCG ATG CGC AAA TGT TGT GGA GCC AAA TCT GTA TGC TGC TCC GGC AAA GCA GAG 
+NM_0012004                      ATG CCG GGG AAG GAT CCG TGT CAG AAG CAA GCT TGC GCT ATA CAG AAG TGC TTA CAA GCC AAC AAC TAC ATT GAA GGT CGG TGT GAA GAT GTG ATC CGG GCG ATG AGA AAA TGT TGT GAG GTT AAT TCC GTG TGC TGC TCC GGA CAA ACA GAG 
+XM_0198758                      ATG CCA GCA AAA GAC CCT TGC AAA AAA CAA GCT TGC GCC ATC CAG GCG TGT TTA CAA GCT AAC AAG TAC GTG GAG AGC ATG TGC GCG GAT GTG ATC GAT GAC ATG CGA CGG TGC TGC CGG ATA AAC TCC CTC TGC TGC TCC GGT AAA ACA GAG 
+XM_0109005                      ATG CCA CAG AAA GAT CCT TGT CAG AAG CAA GCA TGC GCT ATT CAG AAA TGT TTA CAA GCC AAC AAG TAC ATA GAG AGC AGG TGC GAT GAC GTG ATA AGA GCA ATG CGT GTG TGC TGT GAG --- AAC TCC GTC TGC TGC TCA GGA AGG ACA GAG 
+XM_0215911                      ATG CCA CAG AAA GAT CCT TGT CAG AAG CAA GCA TGC GCA ATT CAG AAG TGT TTA CAA GCA AAC AAG TAC ATA GAG AGC AGG TGC GAG GAT GTA ATA AGA GCT ATG CGT ATG TGC TGT GAG --- AAC TCC ATC TGC TGC TCA GGG AGG ACA GAG 
+XM_0141289                      ATG CCA CAG AAA GAT CCT TGT CAG AAG CAA GCA TGC GCA ATT CAG AAG TGT TTA CAA GCA AAC AAG TAC ATA GAG AGC AGG TGC GAG GAT GTA ATA AGA GCT ATG CGT ATG TGC TGT GAG --- AAC TCC ATC TGC TGC TCA GGG AGG ACA GAG 
+XM_0284558                      ATG CCT CAG AAG GAT CCG TGT CAG AAA CAG GCT TGT GCC ATT CAG ACG TGT TTA CAA GCA AAC AAA TAC ATG GAG AAC CTG TGT GAG GAT GTG ATC AGA GAT ATG CGA CGC TGC TGT CAG ACG CAA TCA ATC TGC TGC TCA GGA AAA GCA GAG 
+XM_0298359                      ATG CCG CAA AAA GAT CCG TGT CAA AAA CAA GCA TGT GCC ATT CAG CAG TGT TTA CAA GCT AAC AAA TAC GTG GAA AGC ATG TGT GAA GAC GTT ATC AAG GAA ATG AGG CGA TGC TGT GAG ACG AAA TCA ATC TGC TGT TCT GGG AAC GAC AAC 
+XM_0209353                      --- --- CAG AAG GAT CCA TGT CAA AAA CAA GCA TGT GCA ATT CAA AAG TGT TTA CAA GCA AAT AAA TAC CTG GAG ATC ATG TGT GAA GAT GTC ATC AGG GAG ATG CGC CGC TGT TGC GAA ACC AAC TCC ATT TGC TGC TCG GGT AAG ACG GAG 
+XM_0300584                      ATG CCA CAG AAA GAT CCG TGT CAG AAG CAA GCG TGT GCG ATT CAA AAG TGT CTC CAA GAG AAC CGG TAC GTG GAG AGC CTG TGT GAG GAT GTG ATC CGG GAG ATG CGC CGC TGC TGT CGG ACG ACC TCC GTG TGC TGC TCC GGC AAG GCA GAG 
+XM_0153720                      ATG CCG CAG AAA GAC CCT TGT CAA AAG CAA GCG TGC GCC ATC CAG AAG TGT CTA CAA GCT AAT AAG TAC CTG GAG AGT CTG TGC GAG GAG GTG ATC CGA GAC ATG CGG AGG TGT TGT GAA GTT AAC TCG GTC TGC TGC TCC GGT AAG GCG GAG 
+XM_0242725                      ATG CCA CAG AAA GAT CCG TGT CAA AAG CAG GCA TGT GCC ATT CAA ACG TGT TTA CAA GCT AAC AAA TAT ATG GAA AGT AAA TGC GAG GAT GTG ATC CGA GAA ATG CAG CGG TGC TGT GCA GCG AAC TCC GTC TGC TGC TCC GGT AAA ACA GAG 
+XM_0263260                      ATG CCA TAT AAA GAT CCG TGT CAA AAA CAA GCC TGT GCA ATT CAG AAG TGT TTA CAA GCT AAT AAA TAC GTG GAG AGC ATG TGT GAG GAT GTG GTC AAG GAG ATG CGG CGG TGC TGT GCG ACA AAC TCG ATC TGC TGC TCC GGG AAG ACG GAG 
+XM_0143392                      ATG CCA CAG AAG GAT CCG TGC CAA AAG CAA GCA TGT GCA ATT CAG AAG TGT TTA CAA GCT AAT AAG TAC GTG GAA AGC CTG TGC GAG AAG GAG ATC GCG GAG ATG CGG CGG TGC TGT CAA GTG AAC TCC ATT TGC TGC TCC GGG AAA GCA GAG 
+XM_0259063                      ATG CCA CAG AAA GAT CCG TGC CAA AAG CAA GCA TGT GCA ATT CAG AAG TGT TTA CAA GCT AAT AAG TAC GTG GAA AGC CTG TGC GAG GAC GTG ATC GCG GAG ATG CGG CGG TGC TGT CAA GTG AAC TCC ATT TGC TGC TCC GGG AAA GCA GAG 
+
+
+
+Printing out site pattern counts
+
+
+        23        153  P
+
+XM_0307935                       AAA AAA AAC AAG AAG AGA AGG AGT ATA ATA ATG ATG CAA CAA CAA CAG CAG CCA CGA CGA CTT GAA GAA GAA GAA GAA GAA GAC GAC GAG GCA GCA GCG GGT GTC GTC GTT TAT TCA TCA TCC TCG TGC TGC TGC TGT TGT TGT TGT TGT TTA
+XM_0128256                       AAA AAA AAC AAA CAG AAA AAA AGC ATC ATT ATG ATG CAA CAG CTG CAA CAG CCA CGC CGC GCA AAG AAT GAG GAG GCA GCC GAT GAT GCA GAA GCT GCA GGA GTC GTG ATC TAT CCT TCG TCG GCT TGC TGC TGT TGC TGC TGT TGT TGT TTA
+XM_0083292                       --- AAG AAC AGG CGA CGT --- AGC ATC ATT --- ATG CAA CAG --- --- --- --- ATG CGA ACA CGT AAA GAG GAG GCC CAG --- GAA GAG GAG GCA GAG GGC CTT GTG TTG TAC --- TCT TCC GCG TGC TGC TGC --- TGT TGC TGT TGT TTA
+XM_0691934                       AAA AGA AAC AAG GAA AAA AAG AGC ATT ATC ATG ATG CAA CAA CAG CAG CAA CCT AAG AGG TTT CAG AAG GAG GAG GCC GAA GAT GAT AGG GAA GCA GCA GGA GTC GTG ATT TAT TCC TCT TCA CAA TGC TGT TGC TGC TGT TGC TGT TGT TTA
+XM_0187522                       AAA AAA AAC AAA CTG AAG AAA AGC ATC ATT ATG ATG CAA CAG CAG CAA CAG CCG CAG CAG GCA CGG CAT GAG GAG GCT GAA GAC AAA GAG GCA GCC GAA GGA GTC GAG GTG TAC CCT TCT TCT ACT TGC TGT TGC TGT TGT TGC TGC TGT TTG
+NM_0013030                       AAA AAA AAC AAA CGG AGA AAA AGC ATT ATA ATG ATG CAA CAG CAG CAG CAA CCA CGC AAG CTC AAG AAC GAA GAC GCT GAG GAT GAT GAG GCC GCC GCT GGA GTC GTG ATT TAC TCA TCT TCT ACA TGT TGC TGC TGT TGT TGC TGC TGT TTA
+XM_0072470                       AAG AAA AAC AAA CGG AAA AAG AGT ATC ATC ATG ATG CAA CAG CAG CAG CAG CCG CGA CGG TCC AAA AAC GAA GAA GCT GTG GAC GAT GAA GCC GCG GCC GGC GTG GTG ATT TAC TCA TCA TCT GCT TGC TGT TGC TGT TGT TGC TGT TGT CTA
+XM_0177010                       AAG AAG AAC AGA CGG AAA AAA AGC ATC ATT ATG ATG CAA CAG CAG CAG CAG CCC CGC CGA ACC CAA AAC GAA GAG GCC GAG GAT GAC GAA GCG GCG GCC GGC GTT GTG ATT TAC CCA TCT TCC ACC TGC TGC TGC TGT TGT TGC TGT TGT TTA
+XM_0270193                       AAG AAA AAC AAA CGT AAG AAG AGT ATT ATA ATG ATG CAA CAG CAG CAA CAG CCT CGG CGC GCC AAA AAA GAA GAG GCC GAA GAT GAA GGA GCG GCG GCG GGC GTA GTA GTT TAT TCT TCT TCC GCA TGT TGC TGC TGT TGT TGT TGT TGC TTA
+NM_0012004                       AAG AAG AAC CAA CGG AAC AAG GGT ATC ATA ATG ATG CAA CAG GGG CAA CAG CCG CGG AGA GTT AAA AAT GAA GAG GCC GAA GAT GAT GAG GCT GCT GCG GGA GTG GTG ATT TAC CCG TCC TCC ACA TGT TGC TGC TGT TGT TGT TGC TGC TTA
+XM_0198758                       AAA GCG AAC AAA GAT AAG AAA AGC ATC ATC ATG ATG CAA CAG GCA CAA AAA CCT ATG CGA ATA CGG AAC GAG GAG GCT GCG GAC GAT CGG GCC GCT GAC GGT CTC GTG GTG TAC CCA TCC TCC ACA TGC TGC TGC TGC TGC TGC TGC TGT TTA
+XM_0109005                       AAA AAA AAC AGG AGA AAG AAG AGC ATA ATT ATG ATG CAA CAG CAG CAA CAG CCT AGG CGT --- GTG AAC GAG GAG GCC GAT GAT GAC GAG GCT GCA GCA GGA GTC GTG ATA TAC CCA TCC TCA ACA TGT TGC TGC TGT TGC TGC TGC TGT TTA
+XM_0215911                       AAA AAG AAC AGG AGA AAG AAG AGC ATA ATT ATG ATG CAA CAG CAG CAA CAG CCT AGG CGT --- ATG AAC GAG GAG GCA GAG GAT GAT GAG GCA GCA GCT GGG ATC GTA ATA TAC CCA TCC TCA ACA TGT TGC TGC TGT TGC TGC TGC TGT TTA
+XM_0141289                       AAA AAG AAC AGG AGA AAG AAG AGC ATA ATT ATG ATG CAA CAG CAG CAA CAG CCT AGG CGT --- ATG AAC GAG GAG GCA GAG GAT GAT GAG GCA GCA GCT GGG ATC GTA ATA TAC CCA TCC TCA ACA TGT TGC TGC TGT TGC TGC TGC TGT TTA
+XM_0284558                       AAG ACG AAC AAA AGA AAA AAA AAC ATC ATT ATG ATG CAA CAG CAG CAG CAG CCG CTG CGA ACG CGC CAA GAG GAG GCA GAG GAT GAT CAG GCC GCT GAT GGA ATC GTG ATG TAC CCT TCA TCA GCA TGT TGC TGC TGT TGT TGC TGT TGT TTA
+XM_0298359                       AAA CAG AAC AAC AAG AAA AAA AGC ATC ATT ATG ATG CAA CAG CAA CAA CAA CCG ATG AGG ACG CGA AAA GAA AAC GCT GAA GAT GAC GAG GCC GCA GAA GGG ATC GTT GTG TAC CCG TCA TCT GAC TGT TGT TGC TGT TGT TGC TGT TGT TTA
+XM_0209353                       AAG AAG AAT AAG AGG AAA AAA ATC ATC ATT --- ATG CAA CAA CAG CAA CAA CCA ATG CGC ACC CGC AAC GAG GAG GCA GAA GAT GAT GAA GCA GCA GAG GGT ATT GTC CTG TAC --- TCC TCG ACG TGC TGC TGC TGT TGT TGT TGT TGT TTA
+XM_0300584                       AAA AAG AAC AAG CGG CGG AAG AGC ATC ATT ATG ATG CAA CAA CAG CAA CAG CCG CTG CGC ACG CGC ACC GAG GAG GAG GAG GAT GAT CGG GCG GCG GAG GGC GTG GTG GTG TAC CCA TCC TCC GCA TGT TGC TGC TGT TGT TGC TGT TGT CTC
+XM_0153720                       AAA AAG AAT AAG CGA AAG AAG AGT ATC ATC ATG ATG CAA CAG CAG CAA CAA CCT CTG CGG GTT AGG AAC GAG GAG GCT GAG GAC GAG GAA GCC GCG GAC GGT GTC GTG CTG TAC CCG TCG TCC GCG TGT TGC TGC TGT TGC TGT TGC TGT CTA
+XM_0242725                       AAA ACG AAC AAA CGA AAA AAG AGT ATC ATT ATG ATG CAA CAA CAG CAG CAA CCG AAA CAG GCG CGG AAC GAA GAG GCT GAG GAT GAT GCA GCC GCA GAA GGT GTC GTG ATG TAT CCA TCC TCC ACA TGT TGC TGC TGT TGC TGC TGT TGT TTA
+XM_0263260                       AAA AAG AAT AAG AAG AAA AAA AGC GTC ATT ATG ATG CAA CAG TAT CAA CAA CCG ATG CGG ACA CGG AAC GAG GAG GCT GAG GAT GAT GCG GCA GCC GAG GGG ATC GTG GTG TAC CCA TCG TCC ACG TGT TGC TGC TGT TGT TGC TGT TGT TTA
+XM_0143392                       AAG AAG AAT AAA GCG AAG AAG AGC ATC ATT ATG ATG CAA CAG CAG CAA CAA CCG CTG CGG GTG CGG AAC GAA GAG GCT GAG GAT AAG CAA GCA GCA GAG GGG ATT GAG GTG TAC CCA TCC TCC GCA TGT TGC TGC TGC TGC TGC TGT TGT TTA
+XM_0259063                       AAA AAG AAT AAA GCG AAG AAG AGC ATC ATT ATG ATG CAA CAG CAG CAA CAA CCG CTG CGG GTG CGG AAC GAA GAG GCT GAG GAT GAC CAA GCA GCA GAG GGG ATT GTG GTG TAC CCA TCC TCC GCA TGT TGC TGC TGC TGC TGC TGT TGT TTA
+
+
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1
+
+CODONML (in paml version 4.10.7, June 2023)  .//MTCP1.phy
+Model: One dN/dS ratio, 
+Codon frequency model: F1x4
+Site-class models: 
+ns =  23  ls =  51
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   0   1   0   0 | Ser TCT   0   0   1   1   2   2 | Tyr TAT   1   1   0   1   0   0 | Cys TGT   5   4   3   4   4   4
+    TTC   0   0   0   0   0   0 |     TCC   1   0   1   1   0   0 |     TAC   0   0   1   0   1   1 |     TGC   3   4   4   4   4   4
+Leu TTA   1   1   1   1   0   1 |     TCA   2   0   0   1   0   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   1   0   1   0 |     TCG   1   2   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   1   0   1   0   0   0 | Pro CCT   0   1   0   1   1   0 | His CAT   0   0   0   0   1   0 | Arg CGT   0   0   2   0   0   0
+    CTC   0   0   0   0   0   1 |     CCC   0   0   0   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   2   0   0   0   1
+    CTA   0   0   0   0   0   0 |     CCA   1   1   0   0   0   1 | Gln CAA   3   2   1   4   2   2 |     CGA   2   0   2   0   0   0
+    CTG   0   1   0   0   1   0 |     CCG   0   0   0   0   1   0 |     CAG   2   3   2   3   5   3 |     CGG   0   0   0   0   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   1   1   2   1   2 | Thr ACT   0   0   0   0   1   0 | Asn AAT   0   1   0   0   0   0 | Ser AGT   1   0   0   0   0   0
+    ATC   0   2   1   1   1   0 |     ACC   0   0   0   0   0   0 |     AAC   1   1   1   1   1   2 |     AGC   0   1   1   1   1   1
+    ATA   2   0   0   0   0   1 |     ACA   0   0   1   0   0   1 | Lys AAA   2   5   1   2   5   4 | Arg AGA   1   0   0   1   0   1
+Met ATG   2   2   2   2   2   2 |     ACG   0   0   0   0   0   0 |     AAG   2   1   1   4   1   2 |     AGG   1   0   1   2   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   0   0   0   0   0 | Ala GCT   0   2   0   0   1   2 | Asp GAT   0   2   0   2   0   2 | Gly GGT   1   0   0   0   0   0
+    GTC   2   1   0   1   1   1 |     GCC   0   1   1   1   1   2 |     GAC   2   0   0   0   1   1 |     GGC   0   0   1   0   0   0
+    GTA   0   0   0   0   0   0 |     GCA   2   4   1   2   2   0 | Glu GAA   6   1   1   3   2   1 |     GGA   0   1   0   1   1   1
+    GTG   0   1   1   1   1   1 |     GCG   1   0   1   0   0   0 |     GAG   1   2   5   2   4   2 |     GGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   0   0   0   0 | Ser TCT   1   1   2   0   0   0 | Tyr TAT   0   0   1   0   0   0 | Cys TGT   5   4   5   4   1   3
+    TTC   0   0   0   0   0   0 |     TCC   1   1   1   2   2   1 |     TAC   1   1   0   1   1   1 |     TGC   3   4   3   4   7   5
+Leu TTA   0   1   1   1   1   1 |     TCA   2   0   0   0   0   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   0   0   0   0 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   0   0   0   0   0 | Pro CCT   0   0   1   0   1   1 | His CAT   0   0   0   0   0   0 | Arg CGT   0   0   1   0   0   1
+    CTC   0   0   0   0   1   0 |     CCC   0   1   0   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   1   1   0   0   0
+    CTA   1   0   0   0   0   0 |     CCA   0   1   0   0   1   1 | Gln CAA   1   2   2   3   2   2 |     CGA   1   1   0   0   1   0
+    CTG   0   0   0   0   0   0 |     CCG   1   0   0   2   0   0 |     CAG   4   4   3   2   1   3 |     CGG   2   1   1   2   2   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   2   1   1   0   1 | Thr ACT   0   0   0   0   0   0 | Asn AAT   0   0   0   1   0   0 | Ser AGT   1   0   1   0   0   0
+    ATC   2   1   0   1   2   0 |     ACC   0   2   0   0   0   0 |     AAC   2   2   1   2   2   2 |     AGC   0   1   0   0   1   1
+    ATA   0   0   1   1   1   2 |     ACA   0   0   0   1   1   1 | Lys AAA   4   2   4   1   4   2 | Arg AGA   0   1   0   1   0   1
+Met ATG   2   2   2   2   3   2 |     ACG   0   0   0   0   0   0 |     AAG   2   2   3   3   1   2 |     AGG   0   0   0   0   0   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   1   1   1   0   0 | Ala GCT   2   0   0   2   2   1 | Asp GAT   1   1   1   2   2   2 | Gly GGT   0   0   0   1   1   0
+    GTC   0   0   0   0   0   1 |     GCC   2   2   2   1   1   1 |     GAC   1   1   0   0   2   1 |     GGC   1   1   1   0   0   0
+    GTA   0   0   2   0   0   0 |     GCA   0   0   1   0   1   2 | Glu GAA   3   2   3   2   0   0 |     GGA   0   0   1   1   0   1
+    GTG   3   1   0   2   2   2 |     GCG   1   2   3   1   2   0 |     GAG   0   2   1   2   2   3 |     GGG   0   0   0   1   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   0   0   0   0 | Ser TCT   0   0   0   1   0   0 | Tyr TAT   0   0   0   0   0   0 | Cys TGT   3   3   5   6   5   5
+    TTC   0   0   0   0   0   0 |     TCC   1   1   0   0   1   2 |     TAC   1   1   1   1   1   1 |     TGC   5   5   3   2   3   3
+Leu TTA   1   1   1   1   1   0 |     TCA   1   1   2   1   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   0   0   0   0 |     TCG   0   0   0   0   1   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   0   0   0   0   0 | Pro CCT   1   1   1   0   0   0 | His CAT   0   0   0   0   0   0 | Arg CGT   1   1   0   0   0   0
+    CTC   0   0   0   0   0   1 |     CCC   0   0   0   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   0   1   0   2   2
+    CTA   0   0   0   0   0   0 |     CCA   1   1   0   0   1   1 | Gln CAA   2   2   2   4   4   3 |     CGA   0   0   1   1   0   0
+    CTG   0   0   1   0   1   1 |     CCG   0   0   1   2   0   1 |     CAG   3   3   5   2   1   2 |     CGG   0   0   0   0   0   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   1   1   1   2   1 | Thr ACT   0   0   0   0   0   0 | Asn AAT   0   0   0   0   1   0 | Ser AGT   0   0   0   0   0   0
+    ATC   1   1   2   2   2   1 |     ACC   0   0   0   0   1   1 |     AAC   2   2   2   3   1   1 |     AGC   1   1   0   1   0   1
+    ATA   2   2   0   0   0   0 |     ACA   1   1   0   0   0   0 | Lys AAA   1   1   3   4   2   1 | Arg AGA   1   1   1   0   0   0
+Met ATG   3   3   3   3   2   2 |     ACG   0   0   2   1   1   1 |     AAG   3   3   1   1   3   3 |     AGG   2   2   0   1   1   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   0   0   1   0   0 | Ala GCT   1   1   1   1   0   0 | Asp GAT   2   2   3   1   2   2 | Gly GGT   0   0   0   0   1   0
+    GTC   0   0   0   0   1   0 |     GCC   0   0   1   1   0   0 |     GAC   0   0   0   2   0   0 |     GGC   0   0   0   0   0   1
+    GTA   1   1   0   0   0   0 |     GCA   3   3   2   1   3   1 | Glu GAA   0   0   0   3   2   0 |     GGA   0   0   1   0   0   0
+    GTG   0   0   1   1   0   3 |     GCG   0   0   0   0   0   2 |     GAG   4   4   3   1   3   5 |     GGG   1   1   0   1   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   0   0   0 | Ser TCT   0   0   0   0   0 | Tyr TAT   0   1   1   0   0 | Cys TGT   4   4   5   3   3
+    TTC   0   0   0   0   0 |     TCC   1   2   1   2   2 |     TAC   1   0   1   1   1 |     TGC   4   4   3   5   5
+Leu TTA   0   1   1   1   1 |     TCA   0   0   0   0   0 | *** TAA   0   0   0   0   0 | *** TGA   0   0   0   0   0
+    TTG   0   0   0   0   0 |     TCG   1   0   1   0   0 |     TAG   0   0   0   0   0 | Trp TGG   0   0   0   0   0
+----------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   0   0   0   0 | Pro CCT   1   0   0   0   0 | His CAT   0   0   0   0   0 | Arg CGT   0   0   0   0   0
+    CTC   0   0   0   0   0 |     CCC   0   0   0   0   0 |     CAC   0   0   0   0   0 |     CGC   0   0   0   0   0
+    CTA   1   0   0   0   0 |     CCA   0   1   1   1   1 | Gln CAA   3   3   3   4   4 |     CGA   1   1   0   0   0
+    CTG   2   0   0   1   1 |     CCG   1   1   1   1   1 |     CAG   2   3   1   2   2 |     CGG   1   1   2   2   2
+----------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   1   1   2   2 | Thr ACT   0   0   0   0   0 | Asn AAT   1   0   1   1   1 | Ser AGT   1   1   0   0   0
+    ATC   2   1   1   1   1 |     ACC   0   0   0   0   0 |     AAC   1   2   1   1   1 |     AGC   0   0   1   1   1
+    ATA   0   0   0   0   0 |     ACA   0   1   1   0   0 | Lys AAA   1   4   3   1   2 | Arg AGA   0   0   0   0   0
+Met ATG   2   3   3   2   2 |     ACG   0   1   1   0   0 |     AAG   4   1   3   5   3 |     AGG   1   0   0   0   0
+----------------------------------------------------------------------------------------------------------------------
+Val GTT   1   0   0   0   0 | Ala GCT   1   1   1   1   1 | Asp GAT   0   2   2   1   1 | Gly GGT   1   1   0   0   0
+    GTC   1   1   1   0   0 |     GCC   1   1   1   0   0 |     GAC   2   0   0   0   1 |     GGC   0   0   0   0   0
+    GTA   0   0   0   0   0 |     GCA   0   2   1   3   3 | Glu GAA   1   2   0   1   1 |     GGA   0   0   0   0   0
+    GTG   1   1   2   2   3 |     GCG   2   1   1   1   1 |     GAG   4   2   4   4   3 |     GGG   0   0   1   1   1
+----------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: XM_0307935     
+position  1:    T:0.27451    C:0.17647    A:0.23529    G:0.31373
+position  2:    T:0.17647    C:0.15686    A:0.39216    G:0.27451
+position  3:    T:0.19608    C:0.17647    A:0.43137    G:0.19608
+Average         T:0.21569    C:0.16993    A:0.35294    G:0.26144
+
+#2: XM_0128256     
+position  1:    T:0.23529    C:0.19608    A:0.27451    G:0.29412
+position  2:    T:0.17647    C:0.21569    A:0.37255    G:0.23529
+position  3:    T:0.23529    C:0.23529    A:0.29412    G:0.23529
+Average         T:0.21569    C:0.21569    A:0.31373    G:0.25490
+
+#3: XM_0083292     
+position  1:    T:0.29268    C:0.19512    A:0.24390    G:0.26829
+position  2:    T:0.19512    C:0.14634    A:0.31707    G:0.34146
+position  3:    T:0.19512    C:0.26829    A:0.19512    G:0.34146
+Average         T:0.22764    C:0.20325    A:0.25203    G:0.31707
+
+#4: XM_0691934     
+position  1:    T:0.27451    C:0.15686    A:0.31373    G:0.25490
+position  2:    T:0.17647    C:0.13725    A:0.43137    G:0.25490
+position  3:    T:0.23529    C:0.19608    A:0.29412    G:0.27451
+Average         T:0.22876    C:0.16340    A:0.34641    G:0.26144
+
+#5: XM_0187522     
+position  1:    T:0.23529    C:0.23529    A:0.25490    G:0.27451
+position  2:    T:0.15686    C:0.17647    A:0.45098    G:0.21569
+position  3:    T:0.21569    C:0.21569    A:0.23529    G:0.33333
+Average         T:0.20261    C:0.20915    A:0.31373    G:0.27451
+
+#6: NM_0013030     
+position  1:    T:0.25490    C:0.17647    A:0.31373    G:0.25490
+position  2:    T:0.17647    C:0.17647    A:0.39216    G:0.25490
+position  3:    T:0.23529    C:0.27451    A:0.27451    G:0.21569
+Average         T:0.22222    C:0.20915    A:0.32680    G:0.24183
+
+#7: XM_0072470     
+position  1:    T:0.25490    C:0.19608    A:0.27451    G:0.27451
+position  2:    T:0.17647    C:0.19608    A:0.37255    G:0.25490
+position  3:    T:0.21569    C:0.25490    A:0.23529    G:0.29412
+Average         T:0.21569    C:0.21569    A:0.29412    G:0.27451
+
+#8: XM_0177010     
+position  1:    T:0.23529    C:0.21569    A:0.29412    G:0.25490
+position  2:    T:0.15686    C:0.19608    A:0.37255    G:0.27451
+position  3:    T:0.17647    C:0.35294    A:0.19608    G:0.27451
+Average         T:0.18954    C:0.25490    A:0.28758    G:0.26797
+
+#9: XM_0270193     
+position  1:    T:0.25490    C:0.17647    A:0.25490    G:0.31373
+position  2:    T:0.15686    C:0.19608    A:0.37255    G:0.27451
+position  3:    T:0.27451    C:0.17647    A:0.29412    G:0.25490
+Average         T:0.22876    C:0.18301    A:0.30719    G:0.28105
+
+#10: NM_0012004     
+position  1:    T:0.23529    C:0.17647    A:0.27451    G:0.31373
+position  2:    T:0.17647    C:0.17647    A:0.37255    G:0.27451
+position  3:    T:0.23529    C:0.21569    A:0.21569    G:0.33333
+Average         T:0.21569    C:0.18954    A:0.28758    G:0.30719
+
+#11: XM_0198758     
+position  1:    T:0.23529    C:0.17647    A:0.29412    G:0.29412
+position  2:    T:0.19608    C:0.21569    A:0.33333    G:0.25490
+position  3:    T:0.13725    C:0.37255    A:0.23529    G:0.25490
+Average         T:0.18954    C:0.25490    A:0.28758    G:0.26797
+
+#12: XM_0109005     
+position  1:    T:0.24000    C:0.16000    A:0.32000    G:0.28000
+position  2:    T:0.18000    C:0.18000    A:0.36000    G:0.28000
+position  3:    T:0.18000    C:0.26000    A:0.28000    G:0.28000
+Average         T:0.20000    C:0.20000    A:0.32000    G:0.28000
+
+#13: XM_0215911     
+position  1:    T:0.24000    C:0.16000    A:0.36000    G:0.24000
+position  2:    T:0.18000    C:0.18000    A:0.36000    G:0.28000
+position  3:    T:0.18000    C:0.22000    A:0.28000    G:0.32000
+Average         T:0.20000    C:0.18667    A:0.33333    G:0.28000
+
+#14: XM_0141289     
+position  1:    T:0.24000    C:0.16000    A:0.36000    G:0.24000
+position  2:    T:0.18000    C:0.18000    A:0.36000    G:0.28000
+position  3:    T:0.18000    C:0.22000    A:0.28000    G:0.32000
+Average         T:0.20000    C:0.18667    A:0.33333    G:0.28000
+
+#15: XM_0284558     
+position  1:    T:0.23529    C:0.23529    A:0.29412    G:0.23529
+position  2:    T:0.17647    C:0.19608    A:0.39216    G:0.23529
+position  3:    T:0.21569    C:0.19608    A:0.25490    G:0.33333
+Average         T:0.20915    C:0.20915    A:0.31373    G:0.26797
+
+#16: XM_0298359     
+position  1:    T:0.23529    C:0.17647    A:0.33333    G:0.25490
+position  2:    T:0.17647    C:0.15686    A:0.43137    G:0.23529
+position  3:    T:0.21569    C:0.23529    A:0.29412    G:0.25490
+Average         T:0.20915    C:0.18954    A:0.35294    G:0.24837
+
+#17: XM_0209353     
+position  1:    T:0.24490    C:0.18367    A:0.32653    G:0.24490
+position  2:    T:0.18367    C:0.16327    A:0.40816    G:0.24490
+position  3:    T:0.22449    C:0.24490    A:0.26531    G:0.26531
+Average         T:0.21769    C:0.19728    A:0.33333    G:0.25170
+
+#18: XM_0300584     
+position  1:    T:0.21569    C:0.27451    A:0.23529    G:0.27451
+position  2:    T:0.17647    C:0.17647    A:0.35294    G:0.29412
+position  3:    T:0.15686    C:0.27451    A:0.11765    G:0.45098
+Average         T:0.18301    C:0.24183    A:0.23529    G:0.33987
+
+#19: XM_0153720     
+position  1:    T:0.21569    C:0.23529    A:0.25490    G:0.29412
+position  2:    T:0.19608    C:0.15686    A:0.39216    G:0.25490
+position  3:    T:0.19608    C:0.25490    A:0.13725    G:0.41176
+Average         T:0.20261    C:0.21569    A:0.26144    G:0.32026
+
+#20: XM_0242725     
+position  1:    T:0.23529    C:0.19608    A:0.29412    G:0.27451
+position  2:    T:0.15686    C:0.21569    A:0.39216    G:0.23529
+position  3:    T:0.21569    C:0.21569    A:0.29412    G:0.27451
+Average         T:0.20261    C:0.20915    A:0.32680    G:0.26144
+
+#21: XM_0263260     
+position  1:    T:0.25490    C:0.15686    A:0.31373    G:0.27451
+position  2:    T:0.17647    C:0.19608    A:0.39216    G:0.23529
+position  3:    T:0.21569    C:0.19608    A:0.19608    G:0.39216
+Average         T:0.21569    C:0.18301    A:0.30065    G:0.30065
+
+#22: XM_0143392     
+position  1:    T:0.23529    C:0.21569    A:0.27451    G:0.27451
+position  2:    T:0.17647    C:0.17647    A:0.41176    G:0.23529
+position  3:    T:0.15686    C:0.21569    A:0.21569    G:0.41176
+Average         T:0.18954    C:0.20261    A:0.30065    G:0.30719
+
+#23: XM_0259063     
+position  1:    T:0.23529    C:0.21569    A:0.25490    G:0.29412
+position  2:    T:0.19608    C:0.17647    A:0.39216    G:0.23529
+position  3:    T:0.15686    C:0.23529    A:0.23529    G:0.37255
+Average         T:0.19608    C:0.20915    A:0.29412    G:0.30065
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT       1 | Ser S TCT      11 | Tyr Y TAT       6 | Cys C TGT      92
+      TTC       0 |       TCC      24 |       TAC      18 |       TGC      91
+Leu L TTA      19 |       TCA      12 | *** * TAA       0 | *** * TGA       0
+      TTG       2 |       TCG       6 |       TAG       0 | Trp W TGG       0
+------------------------------------------------------------------------------
+Leu L CTT       2 | Pro P CCT      10 | His H CAT       1 | Arg R CGT       6
+      CTC       3 |       CCC       1 |       CAC       0 |       CGC      10
+      CTA       2 |       CCA      14 | Gln Q CAA      60 |       CGA      11
+      CTG       9 |       CCG      13 |       CAG      61 |       CGG      21
+------------------------------------------------------------------------------
+Ile I ATT      26 | Thr T ACT       1 | Asn N AAT       7 | Ser S AGT       5
+      ATC      26 |       ACC       4 |       AAC      35 |       AGC      15
+      ATA      12 |       ACA       9 | Lys K AAA      59 | Arg R AGA       9
+Met M ATG      53 |       ACG       7 |       AAG      54 |       AGG      13
+------------------------------------------------------------------------------
+Val V GTT       6 | Ala A GCT      21 | Asp D GAT      33 | Gly G GGT       6
+      GTC      11 |       GCC      20 |       GAC      14 |       GGC       5
+      GTA       4 |       GCA      37 | Glu E GAA      34 |       GGA       8
+      GTG      29 |       GCG      19 |       GAG      63 |       GGG       7
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.24352    C:0.19344    A:0.28929    G:0.27375
+position  2:    T:0.17703    C:0.18048    A:0.38428    G:0.25820
+position  3:    T:0.20207    C:0.23921    A:0.25043    G:0.30829
+Average         T:0.20754    C:0.20438    A:0.30800    G:0.28008
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00946482  0.00932042  0.01404627  0.01277292
+  0.00932042  0.00917822  0.01383197  0.01257805
+  0.01404627  0.01383197  0.00000000  0.00000000
+  0.01277292  0.01257805  0.00000000  0.01723724
+  0.00932042  0.00917822  0.01383197  0.01257805
+  0.00917822  0.00903820  0.01362094  0.01238615
+  0.01383197  0.01362094  0.02052734  0.01866645
+  0.01257805  0.01238615  0.01866645  0.01697426
+  0.01404627  0.01383197  0.02084537  0.01895565
+  0.01383197  0.01362094  0.02052734  0.01866645
+  0.02084537  0.02052734  0.03093556  0.02813113
+  0.01895565  0.01866645  0.02813113  0.02558092
+  0.01277292  0.01257805  0.01895565  0.01723724
+  0.01257805  0.01238615  0.01866645  0.01697426
+  0.01895565  0.01866645  0.02813113  0.02558092
+  0.01723724  0.01697426  0.02558092  0.02326190
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+XM_0307935          
+XM_0128256          -1.0000 (0.1494 -1.0000)
+XM_0083292          -1.0000 (0.2384 -1.0000)-1.0000 (0.2379 -1.0000)
+XM_0691934          -1.0000 (0.1419 -1.0000)-1.0000 (0.1602 -1.0000) 0.0953 (0.2548 2.6744)
+XM_0187522          -1.0000 (0.1836 -1.0000) 0.1255 (0.1582 1.2602) 0.1049 (0.2044 1.9491) 0.0511 (0.2100 4.1126)
+NM_0013030          -1.0000 (0.1005 -1.0000)-1.0000 (0.1292 -1.0000)-1.0000 (0.2591 -1.0000) 0.0780 (0.1512 1.9378) 0.1073 (0.1525 1.4213)
+XM_0072470          -1.0000 (0.1159 -1.0000)-1.0000 (0.0647 -1.0000)-1.0000 (0.2270 -1.0000)-1.0000 (0.1283 -1.0000)-1.0000 (0.1392 -1.0000) 0.0358 (0.0644 1.8001)
+XM_0177010          -1.0000 (0.1247 -1.0000)-1.0000 (0.0824 -1.0000) 0.3907 (0.1844 0.4721)-1.0000 (0.1420 -1.0000)-1.0000 (0.1190 -1.0000) 0.0444 (0.0730 1.6425) 0.0493 (0.0513 1.0407)
+XM_0270193          -1.0000 (0.1153 -1.0000)-1.0000 (0.0872 -1.0000)-1.0000 (0.1740 -1.0000)-1.0000 (0.1325 -1.0000)-1.0000 (0.1144 -1.0000)-1.0000 (0.1007 -1.0000)-1.0000 (0.0514 -1.0000) 0.0471 (0.0780 1.6569)
+NM_0012004          -1.0000 (0.1549 -1.0000)-1.0000 (0.1155 -1.0000)-1.0000 (0.2416 -1.0000)-1.0000 (0.1724 -1.0000)-1.0000 (0.1586 -1.0000)-1.0000 (0.0869 -1.0000)-1.0000 (0.0878 -1.0000)-1.0000 (0.0735 -1.0000) 0.1386 (0.1157 0.8348)
+XM_0198758          -1.0000 (0.2387 -1.0000) 0.0436 (0.2003 4.5940) 0.3092 (0.2346 0.7586)-1.0000 (0.1827 -1.0000) 0.1413 (0.2002 1.4163) 0.1120 (0.2211 1.9732)-1.0000 (0.2034 -1.0000)-1.0000 (0.1790 -1.0000)-1.0000 (0.1917 -1.0000)-1.0000 (0.1919 -1.0000)
+XM_0109005          -1.0000 (0.1119 -1.0000)-1.0000 (0.0977 -1.0000) 0.1363 (0.1835 1.3462) 0.1144 (0.1495 1.3074) 0.0740 (0.1370 1.8507) 0.0334 (0.0925 2.7741)-1.0000 (0.0580 -1.0000)-1.0000 (0.0341 -1.0000)-1.0000 (0.0994 -1.0000)-1.0000 (0.0854 -1.0000) 0.1420 (0.1820 1.2820)
+XM_0215911          -1.0000 (0.1193 -1.0000)-1.0000 (0.0971 -1.0000) 0.1022 (0.1732 1.6938)-1.0000 (0.1436 -1.0000)-1.0000 (0.1361 -1.0000)-1.0000 (0.0827 -1.0000)-1.0000 (0.0607 -1.0000)-1.0000 (0.0367 -1.0000)-1.0000 (0.0925 -1.0000)-1.0000 (0.0833 -1.0000) 0.1300 (0.1651 1.2699) 0.0856 (0.0252 0.2939)
+XM_0141289          -1.0000 (0.1193 -1.0000)-1.0000 (0.0971 -1.0000) 0.1022 (0.1732 1.6938)-1.0000 (0.1436 -1.0000)-1.0000 (0.1361 -1.0000)-1.0000 (0.0827 -1.0000)-1.0000 (0.0607 -1.0000)-1.0000 (0.0367 -1.0000)-1.0000 (0.0925 -1.0000)-1.0000 (0.0833 -1.0000) 0.1300 (0.1651 1.2699) 0.0856 (0.0252 0.2939)-1.0000 (0.0000 0.0000)
+XM_0284558          -1.0000 (0.1812 -1.0000) 0.1112 (0.1796 1.6153) 0.2071 (0.1728 0.8345)-1.0000 (0.1867 -1.0000) 0.0786 (0.1395 1.7745) 0.1339 (0.1754 1.3092)-1.0000 (0.1351 -1.0000) 0.0796 (0.1101 1.3830)-1.0000 (0.1493 -1.0000) 0.1467 (0.1924 1.3117) 0.1151 (0.1579 1.3717) 0.0927 (0.1361 1.4680) 0.0960 (0.1141 1.1892) 0.0960 (0.1141 1.1892)
+XM_0298359          -1.0000 (0.1798 -1.0000)-1.0000 (0.1965 -1.0000) 0.0613 (0.1830 2.9847)-1.0000 (0.1793 -1.0000) 0.1241 (0.1707 1.3754) 0.1027 (0.1921 1.8707)-1.0000 (0.1666 -1.0000)-1.0000 (0.1505 -1.0000)-1.0000 (0.1624 -1.0000)-1.0000 (0.2166 -1.0000) 0.0614 (0.1831 2.9842)-1.0000 (0.1645 -1.0000)-1.0000 (0.1467 -1.0000)-1.0000 (0.1467 -1.0000) 0.0841 (0.1178 1.4015)
+XM_0209353          -1.0000 (0.1638 -1.0000) 0.0540 (0.1641 3.0391) 0.0603 (0.1160 1.9242)-1.0000 (0.1786 -1.0000)-1.0000 (0.1235 -1.0000)-1.0000 (0.1528 -1.0000)-1.0000 (0.1186 -1.0000)-1.0000 (0.0886 -1.0000)-1.0000 (0.1298 -1.0000)-1.0000 (0.1610 -1.0000)-1.0000 (0.1488 -1.0000)-1.0000 (0.0867 -1.0000)-1.0000 (0.0750 -1.0000)-1.0000 (0.0750 -1.0000) 0.0319 (0.0804 2.5211)-1.0000 (0.1031 -1.0000)
+XM_0300584          -1.0000 (0.1526 -1.0000)-1.0000 (0.1664 -1.0000) 0.1976 (0.1498 0.7579)-1.0000 (0.2051 -1.0000) 0.0307 (0.1497 4.8821)-1.0000 (0.1830 -1.0000) 0.0431 (0.1419 3.2935) 0.0935 (0.1310 1.4002) 0.0412 (0.1263 3.0663) 0.1646 (0.2095 1.2730) 0.1216 (0.1773 1.4586) 0.0999 (0.1481 1.4824) 0.1286 (0.1557 1.2101) 0.1286 (0.1557 1.2101) 0.1005 (0.1111 1.1061)-1.0000 (0.1637 -1.0000) 0.0587 (0.1108 1.8864)
+XM_0153720          -1.0000 (0.1501 -1.0000)-1.0000 (0.1157 -1.0000)-1.0000 (0.1488 -1.0000)-1.0000 (0.1727 -1.0000)-1.0000 (0.0866 -1.0000)-1.0000 (0.1057 -1.0000)-1.0000 (0.0833 -1.0000)-1.0000 (0.0874 -1.0000)-1.0000 (0.0737 -1.0000)-1.0000 (0.1064 -1.0000) 0.1545 (0.1506 0.9746) 0.0431 (0.0933 2.1669) 0.0231 (0.0788 3.4164) 0.0231 (0.0788 3.4164)-1.0000 (0.0979 -1.0000)-1.0000 (0.1347 -1.0000)-1.0000 (0.0811 -1.0000) 0.0553 (0.1088 1.9683)
+XM_0242725          -1.0000 (0.1844 -1.0000)-1.0000 (0.1291 -1.0000) 0.0781 (0.1921 2.4590) 0.0651 (0.1544 2.3697)-1.0000 (0.0768 -1.0000) 0.1014 (0.1285 1.2679) 0.0480 (0.1106 2.3062) 0.0411 (0.0958 2.3305)-1.0000 (0.1148 -1.0000)-1.0000 (0.1294 -1.0000) 0.1300 (0.1576 1.2121) 0.0458 (0.0925 2.0172) 0.0394 (0.0919 2.3300) 0.0394 (0.0919 2.3300) 0.0808 (0.1064 1.3175) 0.0801 (0.1514 1.8903)-1.0000 (0.0803 -1.0000) 0.1058 (0.1320 1.2479) 0.0627 (0.0885 1.4105)
+XM_0263260          -1.0000 (0.1775 -1.0000)-1.0000 (0.1447 -1.0000) 0.2175 (0.1596 0.7340)-1.0000 (0.1796 -1.0000) 0.1080 (0.1328 1.2296) 0.1508 (0.1820 1.2069)-1.0000 (0.1582 -1.0000) 0.0502 (0.1227 2.4409)-1.0000 (0.1491 -1.0000)-1.0000 (0.1644 -1.0000) 0.1338 (0.1271 0.9500) 0.0604 (0.1212 2.0051) 0.0802 (0.1013 1.2635) 0.0802 (0.1013 1.2635) 0.1205 (0.1239 1.0277) 0.1061 (0.0990 0.9332) 0.0535 (0.0617 1.1537) 0.1627 (0.1353 0.8316) 0.1026 (0.1200 1.1691) 0.0697 (0.0954 1.3679)
+XM_0143392          -1.0000 (0.1847 -1.0000)-1.0000 (0.1591 -1.0000) 0.1405 (0.1948 1.3864)-1.0000 (0.1765 -1.0000)-1.0000 (0.0770 -1.0000)-1.0000 (0.1737 -1.0000)-1.0000 (0.1568 -1.0000) 0.1005 (0.1457 1.4496)-1.0000 (0.1199 -1.0000) 0.0701 (0.1698 2.4205) 0.1597 (0.1545 0.9678) 0.0836 (0.1462 1.7483) 0.0936 (0.1255 1.3405) 0.0936 (0.1255 1.3405) 0.0741 (0.1145 1.5446) 0.0937 (0.1419 1.5145) 0.0838 (0.1159 1.3822) 0.1498 (0.1306 0.8716) 0.0414 (0.0689 1.6640) 0.1930 (0.1352 0.7004) 0.2025 (0.1255 0.6199)
+XM_0259063          -1.0000 (0.1493 -1.0000)-1.0000 (0.1297 -1.0000) 0.1592 (0.1822 1.1440)-1.0000 (0.1468 -1.0000)-1.0000 (0.1047 -1.0000) 0.0319 (0.1438 4.5070)-1.0000 (0.1272 -1.0000) 0.0704 (0.1167 1.6571)-1.0000 (0.1106 -1.0000)-1.0000 (0.1399 -1.0000) 0.1317 (0.1252 0.9504) 0.0823 (0.1168 1.4202) 0.0744 (0.0970 1.3046) 0.0744 (0.0970 1.3046) 0.0384 (0.0867 2.2596) 0.0801 (0.1087 1.3569) 0.0373 (0.0823 2.2047) 0.1188 (0.1019 0.8575) 0.0435 (0.0600 1.3804) 0.1547 (0.1067 0.6898) 0.1593 (0.0974 0.6111) 0.7547 (0.0250 0.0331)
+
+NSsites Model 0: one-ratio
+
+TREE #  1:  (11, 19, (((((16, (17, 21)), (15, (3, 18))), (22, 23)), (5, ((12, (13, 14)), (2, ((4, 6), (8, (7, (1, (9, 10))))))))), 20));   MP score: -1
+lnL(ntime: 43  np: 45):  -1744.281213      +0.000000
+  24..11   24..19   24..25   25..26   26..27   27..28   28..29   29..16   29..30   30..17   30..21   28..31   31..15   31..32   32..3    32..18   27..33   33..22   33..23   26..34   34..5    34..35   35..36   36..12   36..37   37..13   37..14   35..38   38..2    38..39   39..40   40..4    40..6    39..41   41..8    41..42   42..7    42..43   43..1    43..44   44..9    44..10   25..20 
+ 0.763456 0.414137 0.222303 0.000004 0.121718 0.108997 0.089190 0.707585 0.065440 0.540845 0.270280 0.026402 0.624356 0.161053 0.764787 0.385218 0.278673 0.092095 0.000004 0.000004 0.849706 0.291431 0.418612 0.151462 0.120050 0.000004 0.000004 0.070479 0.954159 0.289673 0.202744 1.275100 0.410812 0.050821 0.374401 0.000004 0.500482 0.211219 1.254522 0.000004 0.515080 0.672546 0.412823 1.453772 0.080430
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length = 14.662685
+
+(11: 0.763456, 19: 0.414137, (((((16: 0.707585, (17: 0.540845, 21: 0.270280): 0.065440): 0.089190, (15: 0.624356, (3: 0.764787, 18: 0.385218): 0.161053): 0.026402): 0.108997, (22: 0.092095, 23: 0.000004): 0.278673): 0.121718, (5: 0.849706, ((12: 0.151462, (13: 0.000004, 14: 0.000004): 0.120050): 0.418612, (2: 0.954159, ((4: 1.275100, 6: 0.410812): 0.202744, (8: 0.374401, (7: 0.500482, (1: 1.254522, (9: 0.515080, 10: 0.672546): 0.000004): 0.211219): 0.000004): 0.050821): 0.289673): 0.070479): 0.291431): 0.000004): 0.000004, 20: 0.412823): 0.222303);
+
+(XM_0198758: 0.763456, XM_0153720: 0.414137, (((((XM_0298359: 0.707585, (XM_0209353: 0.540845, XM_0263260: 0.270280): 0.065440): 0.089190, (XM_0284558: 0.624356, (XM_0083292: 0.764787, XM_0300584: 0.385218): 0.161053): 0.026402): 0.108997, (XM_0143392: 0.092095, XM_0259063: 0.000004): 0.278673): 0.121718, (XM_0187522: 0.849706, ((XM_0109005: 0.151462, (XM_0215911: 0.000004, XM_0141289: 0.000004): 0.120050): 0.418612, (XM_0128256: 0.954159, ((XM_0691934: 1.275100, NM_0013030: 0.410812): 0.202744, (XM_0177010: 0.374401, (XM_0072470: 0.500482, (XM_0307935: 1.254522, (XM_0270193: 0.515080, NM_0012004: 0.672546): 0.000004): 0.211219): 0.000004): 0.050821): 0.289673): 0.070479): 0.291431): 0.000004): 0.000004, XM_0242725: 0.412823): 0.222303);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.45377
+
+omega (dN/dS) =  0.08043
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  24..11     0.763   115.1    37.9  0.0804  0.0664  0.8258   7.6  31.3
+  24..19     0.414   115.1    37.9  0.0804  0.0360  0.4480   4.1  17.0
+  24..25     0.222   115.1    37.9  0.0804  0.0193  0.2405   2.2   9.1
+  25..26     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  26..27     0.122   115.1    37.9  0.0804  0.0106  0.1317   1.2   5.0
+  27..28     0.109   115.1    37.9  0.0804  0.0095  0.1179   1.1   4.5
+  28..29     0.089   115.1    37.9  0.0804  0.0078  0.0965   0.9   3.7
+  29..16     0.708   115.1    37.9  0.0804  0.0616  0.7654   7.1  29.0
+  29..30     0.065   115.1    37.9  0.0804  0.0057  0.0708   0.7   2.7
+  30..17     0.541   115.1    37.9  0.0804  0.0471  0.5850   5.4  22.2
+  30..21     0.270   115.1    37.9  0.0804  0.0235  0.2924   2.7  11.1
+  28..31     0.026   115.1    37.9  0.0804  0.0023  0.0286   0.3   1.1
+  31..15     0.624   115.1    37.9  0.0804  0.0543  0.6753   6.3  25.6
+  31..32     0.161   115.1    37.9  0.0804  0.0140  0.1742   1.6   6.6
+  32..3      0.765   115.1    37.9  0.0804  0.0665  0.8272   7.7  31.3
+  32..18     0.385   115.1    37.9  0.0804  0.0335  0.4167   3.9  15.8
+  27..33     0.279   115.1    37.9  0.0804  0.0242  0.3014   2.8  11.4
+  33..22     0.092   115.1    37.9  0.0804  0.0080  0.0996   0.9   3.8
+  33..23     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  26..34     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  34..5      0.850   115.1    37.9  0.0804  0.0739  0.9191   8.5  34.8
+  34..35     0.291   115.1    37.9  0.0804  0.0254  0.3152   2.9  11.9
+  35..36     0.419   115.1    37.9  0.0804  0.0364  0.4528   4.2  17.2
+  36..12     0.151   115.1    37.9  0.0804  0.0132  0.1638   1.5   6.2
+  36..37     0.120   115.1    37.9  0.0804  0.0104  0.1299   1.2   4.9
+  37..13     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  37..14     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  35..38     0.070   115.1    37.9  0.0804  0.0061  0.0762   0.7   2.9
+  38..2      0.954   115.1    37.9  0.0804  0.0830  1.0321   9.6  39.1
+  38..39     0.290   115.1    37.9  0.0804  0.0252  0.3133   2.9  11.9
+  39..40     0.203   115.1    37.9  0.0804  0.0176  0.2193   2.0   8.3
+  40..4      1.275   115.1    37.9  0.0804  0.1109  1.3792  12.8  52.3
+  40..6      0.411   115.1    37.9  0.0804  0.0357  0.4444   4.1  16.8
+  39..41     0.051   115.1    37.9  0.0804  0.0044  0.0550   0.5   2.1
+  41..8      0.374   115.1    37.9  0.0804  0.0326  0.4050   3.7  15.3
+  41..42     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  42..7      0.500   115.1    37.9  0.0804  0.0435  0.5414   5.0  20.5
+  42..43     0.211   115.1    37.9  0.0804  0.0184  0.2285   2.1   8.7
+  43..1      1.255   115.1    37.9  0.0804  0.1091  1.3570  12.6  51.4
+  43..44     0.000   115.1    37.9  0.0804  0.0000  0.0000   0.0   0.0
+  44..9      0.515   115.1    37.9  0.0804  0.0448  0.5571   5.2  21.1
+  44..10     0.673   115.1    37.9  0.0804  0.0585  0.7275   6.7  27.6
+  25..20     0.413   115.1    37.9  0.0804  0.0359  0.4465   4.1  16.9
+
+tree length for dN:       1.2756
+tree length for dS:      15.8602
+
+
+
+NSsites Model 1: NearlyNeutral (2 categories)
+
+TREE #  1:  (11, 19, (((((16, (17, 21)), (15, (3, 18))), (22, 23)), (5, ((12, (13, 14)), (2, ((4, 6), (8, (7, (1, (9, 10))))))))), 20));   MP score: -1
+lnL(ntime: 43  np: 46):  -1725.883564      +0.000000
+  24..11   24..19   24..25   25..26   26..27   27..28   28..29   29..16   29..30   30..17   30..21   28..31   31..15   31..32   32..3    32..18   27..33   33..22   33..23   26..34   34..5    34..35   35..36   36..12   36..37   37..13   37..14   35..38   38..2    38..39   39..40   40..4    40..6    39..41   41..8    41..42   42..7    42..43   43..1    43..44   44..9    44..10   25..20 
+ 0.711008 0.405367 0.188087 0.063672 0.088664 0.087599 0.112467 0.666222 0.000004 0.528586 0.246462 0.089656 0.571452 0.160382 0.648805 0.337251 0.272736 0.089339 0.000004 0.000004 0.811549 0.236572 0.409560 0.145356 0.106983 0.000004 0.000004 0.108880 0.873531 0.245264 0.110033 1.130918 0.437453 0.140229 0.338691 0.005736 0.454873 0.229640 1.208418 0.049648 0.416282 0.647681 0.374789 1.705033 0.886236 0.068550
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length = 13.749862
+
+(11: 0.711008, 19: 0.405367, (((((16: 0.666222, (17: 0.528586, 21: 0.246462): 0.000004): 0.112467, (15: 0.571452, (3: 0.648805, 18: 0.337251): 0.160382): 0.089656): 0.087599, (22: 0.089339, 23: 0.000004): 0.272736): 0.088664, (5: 0.811549, ((12: 0.145356, (13: 0.000004, 14: 0.000004): 0.106983): 0.409560, (2: 0.873531, ((4: 1.130918, 6: 0.437453): 0.110033, (8: 0.338691, (7: 0.454873, (1: 1.208418, (9: 0.416282, 10: 0.647681): 0.049648): 0.229640): 0.005736): 0.140229): 0.245264): 0.108880): 0.236572): 0.000004): 0.063672, 20: 0.374789): 0.188087);
+
+(XM_0198758: 0.711008, XM_0153720: 0.405367, (((((XM_0298359: 0.666222, (XM_0209353: 0.528586, XM_0263260: 0.246462): 0.000004): 0.112467, (XM_0284558: 0.571452, (XM_0083292: 0.648805, XM_0300584: 0.337251): 0.160382): 0.089656): 0.087599, (XM_0143392: 0.089339, XM_0259063: 0.000004): 0.272736): 0.088664, (XM_0187522: 0.811549, ((XM_0109005: 0.145356, (XM_0215911: 0.000004, XM_0141289: 0.000004): 0.106983): 0.409560, (XM_0128256: 0.873531, ((XM_0691934: 1.130918, NM_0013030: 0.437453): 0.110033, (XM_0177010: 0.338691, (XM_0072470: 0.454873, (XM_0307935: 1.208418, (XM_0270193: 0.416282, NM_0012004: 0.647681): 0.049648): 0.229640): 0.005736): 0.140229): 0.245264): 0.108880): 0.236572): 0.000004): 0.063672, XM_0242725: 0.374789): 0.188087);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.70503
+
+
+MLEs of dN/dS (w) for site classes (K=2)
+
+p:   0.88624  0.11376
+w:   0.06855  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  24..11     0.711   114.1    38.9  0.1745  0.1077  0.6169  12.3  24.0
+  24..19     0.405   114.1    38.9  0.1745  0.0614  0.3517   7.0  13.7
+  24..25     0.188   114.1    38.9  0.1745  0.0285  0.1632   3.3   6.3
+  25..26     0.064   114.1    38.9  0.1745  0.0096  0.0552   1.1   2.1
+  26..27     0.089   114.1    38.9  0.1745  0.0134  0.0769   1.5   3.0
+  27..28     0.088   114.1    38.9  0.1745  0.0133  0.0760   1.5   3.0
+  28..29     0.112   114.1    38.9  0.1745  0.0170  0.0976   1.9   3.8
+  29..16     0.666   114.1    38.9  0.1745  0.1009  0.5780  11.5  22.5
+  29..30     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  30..17     0.529   114.1    38.9  0.1745  0.0800  0.4586   9.1  17.8
+  30..21     0.246   114.1    38.9  0.1745  0.0373  0.2138   4.3   8.3
+  28..31     0.090   114.1    38.9  0.1745  0.0136  0.0778   1.5   3.0
+  31..15     0.571   114.1    38.9  0.1745  0.0865  0.4958   9.9  19.3
+  31..32     0.160   114.1    38.9  0.1745  0.0243  0.1391   2.8   5.4
+  32..3      0.649   114.1    38.9  0.1745  0.0982  0.5629  11.2  21.9
+  32..18     0.337   114.1    38.9  0.1745  0.0511  0.2926   5.8  11.4
+  27..33     0.273   114.1    38.9  0.1745  0.0413  0.2366   4.7   9.2
+  33..22     0.089   114.1    38.9  0.1745  0.0135  0.0775   1.5   3.0
+  33..23     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  26..34     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  34..5      0.812   114.1    38.9  0.1745  0.1229  0.7041  14.0  27.4
+  34..35     0.237   114.1    38.9  0.1745  0.0358  0.2052   4.1   8.0
+  35..36     0.410   114.1    38.9  0.1745  0.0620  0.3553   7.1  13.8
+  36..12     0.145   114.1    38.9  0.1745  0.0220  0.1261   2.5   4.9
+  36..37     0.107   114.1    38.9  0.1745  0.0162  0.0928   1.8   3.6
+  37..13     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  37..14     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  35..38     0.109   114.1    38.9  0.1745  0.0165  0.0945   1.9   3.7
+  38..2      0.874   114.1    38.9  0.1745  0.1323  0.7579  15.1  29.5
+  38..39     0.245   114.1    38.9  0.1745  0.0371  0.2128   4.2   8.3
+  39..40     0.110   114.1    38.9  0.1745  0.0167  0.0955   1.9   3.7
+  40..4      1.131   114.1    38.9  0.1745  0.1712  0.9812  19.5  38.1
+  40..6      0.437   114.1    38.9  0.1745  0.0662  0.3795   7.6  14.8
+  39..41     0.140   114.1    38.9  0.1745  0.0212  0.1217   2.4   4.7
+  41..8      0.339   114.1    38.9  0.1745  0.0513  0.2938   5.9  11.4
+  41..42     0.006   114.1    38.9  0.1745  0.0009  0.0050   0.1   0.2
+  42..7      0.455   114.1    38.9  0.1745  0.0689  0.3946   7.9  15.3
+  42..43     0.230   114.1    38.9  0.1745  0.0348  0.1992   4.0   7.7
+  43..1      1.208   114.1    38.9  0.1745  0.1830  1.0484  20.9  40.7
+  43..44     0.050   114.1    38.9  0.1745  0.0075  0.0431   0.9   1.7
+  44..9      0.416   114.1    38.9  0.1745  0.0630  0.3612   7.2  14.0
+  44..10     0.648   114.1    38.9  0.1745  0.0981  0.5619  11.2  21.8
+  25..20     0.375   114.1    38.9  0.1745  0.0567  0.3252   6.5  12.6
+
+
+
+NSsites Model 2: PositiveSelection (3 categories)
+
+TREE #  1:  (11, 19, (((((16, (17, 21)), (15, (3, 18))), (22, 23)), (5, ((12, (13, 14)), (2, ((4, 6), (8, (7, (1, (9, 10))))))))), 20));   MP score: -1
+lnL(ntime: 43  np: 48):  -1725.883564      +0.000000
+  24..11   24..19   24..25   25..26   26..27   27..28   28..29   29..16   29..30   30..17   30..21   28..31   31..15   31..32   32..3    32..18   27..33   33..22   33..23   26..34   34..5    34..35   35..36   36..12   36..37   37..13   37..14   35..38   38..2    38..39   39..40   40..4    40..6    39..41   41..8    41..42   42..7    42..43   43..1    43..44   44..9    44..10   25..20 
+ 0.711008 0.405367 0.188087 0.063672 0.088664 0.087599 0.112467 0.666222 0.000004 0.528586 0.246462 0.089656 0.571452 0.160382 0.648805 0.337251 0.272736 0.089339 0.000004 0.000004 0.811549 0.236572 0.409560 0.145356 0.106982 0.000004 0.000004 0.108880 0.873531 0.245264 0.110033 1.130917 0.437453 0.140229 0.338691 0.005737 0.454873 0.229640 1.208418 0.049648 0.416282 0.647681 0.374789 1.705034 0.886236 0.062265 0.068550 1.000000
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length = 13.749861
+
+(11: 0.711008, 19: 0.405367, (((((16: 0.666222, (17: 0.528586, 21: 0.246462): 0.000004): 0.112467, (15: 0.571452, (3: 0.648805, 18: 0.337251): 0.160382): 0.089656): 0.087599, (22: 0.089339, 23: 0.000004): 0.272736): 0.088664, (5: 0.811549, ((12: 0.145356, (13: 0.000004, 14: 0.000004): 0.106982): 0.409560, (2: 0.873531, ((4: 1.130917, 6: 0.437453): 0.110033, (8: 0.338691, (7: 0.454873, (1: 1.208418, (9: 0.416282, 10: 0.647681): 0.049648): 0.229640): 0.005737): 0.140229): 0.245264): 0.108880): 0.236572): 0.000004): 0.063672, 20: 0.374789): 0.188087);
+
+(XM_0198758: 0.711008, XM_0153720: 0.405367, (((((XM_0298359: 0.666222, (XM_0209353: 0.528586, XM_0263260: 0.246462): 0.000004): 0.112467, (XM_0284558: 0.571452, (XM_0083292: 0.648805, XM_0300584: 0.337251): 0.160382): 0.089656): 0.087599, (XM_0143392: 0.089339, XM_0259063: 0.000004): 0.272736): 0.088664, (XM_0187522: 0.811549, ((XM_0109005: 0.145356, (XM_0215911: 0.000004, XM_0141289: 0.000004): 0.106982): 0.409560, (XM_0128256: 0.873531, ((XM_0691934: 1.130917, NM_0013030: 0.437453): 0.110033, (XM_0177010: 0.338691, (XM_0072470: 0.454873, (XM_0307935: 1.208418, (XM_0270193: 0.416282, NM_0012004: 0.647681): 0.049648): 0.229640): 0.005737): 0.140229): 0.245264): 0.108880): 0.236572): 0.000004): 0.063672, XM_0242725: 0.374789): 0.188087);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.70503
+
+
+MLEs of dN/dS (w) for site classes (K=3)
+
+p:   0.88624  0.06226  0.05150
+w:   0.06855  1.00000  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  24..11     0.711   114.1    38.9  0.1745  0.1077  0.6169  12.3  24.0
+  24..19     0.405   114.1    38.9  0.1745  0.0614  0.3517   7.0  13.7
+  24..25     0.188   114.1    38.9  0.1745  0.0285  0.1632   3.3   6.3
+  25..26     0.064   114.1    38.9  0.1745  0.0096  0.0552   1.1   2.1
+  26..27     0.089   114.1    38.9  0.1745  0.0134  0.0769   1.5   3.0
+  27..28     0.088   114.1    38.9  0.1745  0.0133  0.0760   1.5   3.0
+  28..29     0.112   114.1    38.9  0.1745  0.0170  0.0976   1.9   3.8
+  29..16     0.666   114.1    38.9  0.1745  0.1009  0.5780  11.5  22.5
+  29..30     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  30..17     0.529   114.1    38.9  0.1745  0.0800  0.4586   9.1  17.8
+  30..21     0.246   114.1    38.9  0.1745  0.0373  0.2138   4.3   8.3
+  28..31     0.090   114.1    38.9  0.1745  0.0136  0.0778   1.5   3.0
+  31..15     0.571   114.1    38.9  0.1745  0.0865  0.4958   9.9  19.3
+  31..32     0.160   114.1    38.9  0.1745  0.0243  0.1391   2.8   5.4
+  32..3      0.649   114.1    38.9  0.1745  0.0982  0.5629  11.2  21.9
+  32..18     0.337   114.1    38.9  0.1745  0.0511  0.2926   5.8  11.4
+  27..33     0.273   114.1    38.9  0.1745  0.0413  0.2366   4.7   9.2
+  33..22     0.089   114.1    38.9  0.1745  0.0135  0.0775   1.5   3.0
+  33..23     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  26..34     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  34..5      0.812   114.1    38.9  0.1745  0.1229  0.7041  14.0  27.4
+  34..35     0.237   114.1    38.9  0.1745  0.0358  0.2052   4.1   8.0
+  35..36     0.410   114.1    38.9  0.1745  0.0620  0.3553   7.1  13.8
+  36..12     0.145   114.1    38.9  0.1745  0.0220  0.1261   2.5   4.9
+  36..37     0.107   114.1    38.9  0.1745  0.0162  0.0928   1.8   3.6
+  37..13     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  37..14     0.000   114.1    38.9  0.1745  0.0000  0.0000   0.0   0.0
+  35..38     0.109   114.1    38.9  0.1745  0.0165  0.0945   1.9   3.7
+  38..2      0.874   114.1    38.9  0.1745  0.1323  0.7579  15.1  29.5
+  38..39     0.245   114.1    38.9  0.1745  0.0371  0.2128   4.2   8.3
+  39..40     0.110   114.1    38.9  0.1745  0.0167  0.0955   1.9   3.7
+  40..4      1.131   114.1    38.9  0.1745  0.1712  0.9812  19.5  38.1
+  40..6      0.437   114.1    38.9  0.1745  0.0662  0.3795   7.6  14.8
+  39..41     0.140   114.1    38.9  0.1745  0.0212  0.1217   2.4   4.7
+  41..8      0.339   114.1    38.9  0.1745  0.0513  0.2938   5.9  11.4
+  41..42     0.006   114.1    38.9  0.1745  0.0009  0.0050   0.1   0.2
+  42..7      0.455   114.1    38.9  0.1745  0.0689  0.3946   7.9  15.3
+  42..43     0.230   114.1    38.9  0.1745  0.0348  0.1992   4.0   7.7
+  43..1      1.208   114.1    38.9  0.1745  0.1830  1.0484  20.9  40.7
+  43..44     0.050   114.1    38.9  0.1745  0.0075  0.0431   0.9   1.7
+  44..9      0.416   114.1    38.9  0.1745  0.0630  0.3612   7.2  14.0
+  44..10     0.648   114.1    38.9  0.1745  0.0981  0.5619  11.2  21.8
+  25..20     0.375   114.1    38.9  0.1745  0.0567  0.3252   6.5  12.6
+
+
+Naive Empirical Bayes (NEB) analysis
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: XM_0307935)
+
+            Pr(w>1)     post mean +- SE for w
+
+
+
+
+The grid (see ternary graph for p0-p1)
+
+w0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+w2:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+w0:   1.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+w2:   0.110  0.099  0.099  0.099  0.099  0.099  0.099  0.099  0.099  0.099
+
+Posterior for p0-p1 (see the ternary graph) (YWN2015, fig. 1)
+
+ 0.000
+ 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.004
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.006 0.143
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.003 0.088 0.706
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.037 0.012
+
+sum of density on p0-p1 =   1.000000
+
+
+NSsites Model 7: beta (10 categories)
+
+TREE #  1:  (11, 19, (((((16, (17, 21)), (15, (3, 18))), (22, 23)), (5, ((12, (13, 14)), (2, ((4, 6), (8, (7, (1, (9, 10))))))))), 20));   MP score: -1
+lnL(ntime: 43  np: 46):  -1675.854353      +0.000000
+  24..11   24..19   24..25   25..26   26..27   27..28   28..29   29..16   29..30   30..17   30..21   28..31   31..15   31..32   32..3    32..18   27..33   33..22   33..23   26..34   34..5    34..35   35..36   36..12   36..37   37..13   37..14   35..38   38..2    38..39   39..40   40..4    40..6    39..41   41..8    41..42   42..7    42..43   43..1    43..44   44..9    44..10   25..20 
+ 0.794868 0.416602 0.214695 0.000004 0.109948 0.107742 0.097335 0.699236 0.036656 0.536833 0.269987 0.034467 0.618634 0.167552 0.708604 0.367315 0.281000 0.090411 0.000004 0.000004 0.877984 0.274724 0.425410 0.149156 0.115397 0.000004 0.000004 0.082827 0.967506 0.286055 0.166746 1.338384 0.428538 0.059611 0.367615 0.000004 0.488235 0.203364 1.311975 0.026543 0.497733 0.673152 0.409179 1.423771 0.291972 3.067492
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length = 14.702041
+
+(11: 0.794868, 19: 0.416602, (((((16: 0.699236, (17: 0.536833, 21: 0.269987): 0.036656): 0.097335, (15: 0.618634, (3: 0.708604, 18: 0.367315): 0.167552): 0.034467): 0.107742, (22: 0.090411, 23: 0.000004): 0.281000): 0.109948, (5: 0.877984, ((12: 0.149156, (13: 0.000004, 14: 0.000004): 0.115397): 0.425410, (2: 0.967506, ((4: 1.338384, 6: 0.428538): 0.166746, (8: 0.367615, (7: 0.488235, (1: 1.311975, (9: 0.497733, 10: 0.673152): 0.026543): 0.203364): 0.000004): 0.059611): 0.286055): 0.082827): 0.274724): 0.000004): 0.000004, 20: 0.409179): 0.214695);
+
+(XM_0198758: 0.794868, XM_0153720: 0.416602, (((((XM_0298359: 0.699236, (XM_0209353: 0.536833, XM_0263260: 0.269987): 0.036656): 0.097335, (XM_0284558: 0.618634, (XM_0083292: 0.708604, XM_0300584: 0.367315): 0.167552): 0.034467): 0.107742, (XM_0143392: 0.090411, XM_0259063: 0.000004): 0.281000): 0.109948, (XM_0187522: 0.877984, ((XM_0109005: 0.149156, (XM_0215911: 0.000004, XM_0141289: 0.000004): 0.115397): 0.425410, (XM_0128256: 0.967506, ((XM_0691934: 1.338384, NM_0013030: 0.428538): 0.166746, (XM_0177010: 0.367615, (XM_0072470: 0.488235, (XM_0307935: 1.311975, (XM_0270193: 0.497733, NM_0012004: 0.673152): 0.026543): 0.203364): 0.000004): 0.059611): 0.286055): 0.082827): 0.274724): 0.000004): 0.000004, XM_0242725: 0.409179): 0.214695);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.42377
+
+Parameters in M7 (beta):
+ p =   0.29197  q =   3.06749
+
+
+MLEs of dN/dS (w) for site classes (K=10)
+
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00001  0.00038  0.00221  0.00706  0.01696  0.03469  0.06446  0.11374  0.19962  0.38825
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  24..11     0.795   115.2    37.8  0.0827  0.0709  0.8571   8.2  32.4
+  24..19     0.417   115.2    37.8  0.0827  0.0372  0.4492   4.3  17.0
+  24..25     0.215   115.2    37.8  0.0827  0.0192  0.2315   2.2   8.7
+  25..26     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  26..27     0.110   115.2    37.8  0.0827  0.0098  0.1186   1.1   4.5
+  27..28     0.108   115.2    37.8  0.0827  0.0096  0.1162   1.1   4.4
+  28..29     0.097   115.2    37.8  0.0827  0.0087  0.1050   1.0   4.0
+  29..16     0.699   115.2    37.8  0.0827  0.0624  0.7539   7.2  28.5
+  29..30     0.037   115.2    37.8  0.0827  0.0033  0.0395   0.4   1.5
+  30..17     0.537   115.2    37.8  0.0827  0.0479  0.5788   5.5  21.9
+  30..21     0.270   115.2    37.8  0.0827  0.0241  0.2911   2.8  11.0
+  28..31     0.034   115.2    37.8  0.0827  0.0031  0.0372   0.4   1.4
+  31..15     0.619   115.2    37.8  0.0827  0.0552  0.6670   6.4  25.2
+  31..32     0.168   115.2    37.8  0.0827  0.0149  0.1807   1.7   6.8
+  32..3      0.709   115.2    37.8  0.0827  0.0632  0.7640   7.3  28.9
+  32..18     0.367   115.2    37.8  0.0827  0.0328  0.3961   3.8  15.0
+  27..33     0.281   115.2    37.8  0.0827  0.0251  0.3030   2.9  11.4
+  33..22     0.090   115.2    37.8  0.0827  0.0081  0.0975   0.9   3.7
+  33..23     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  26..34     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  34..5      0.878   115.2    37.8  0.0827  0.0783  0.9467   9.0  35.8
+  34..35     0.275   115.2    37.8  0.0827  0.0245  0.2962   2.8  11.2
+  35..36     0.425   115.2    37.8  0.0827  0.0380  0.4587   4.4  17.3
+  36..12     0.149   115.2    37.8  0.0827  0.0133  0.1608   1.5   6.1
+  36..37     0.115   115.2    37.8  0.0827  0.0103  0.1244   1.2   4.7
+  37..13     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  37..14     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  35..38     0.083   115.2    37.8  0.0827  0.0074  0.0893   0.9   3.4
+  38..2      0.968   115.2    37.8  0.0827  0.0863  1.0432   9.9  39.4
+  38..39     0.286   115.2    37.8  0.0827  0.0255  0.3084   2.9  11.6
+  39..40     0.167   115.2    37.8  0.0827  0.0149  0.1798   1.7   6.8
+  40..4      1.338   115.2    37.8  0.0827  0.1194  1.4431  13.8  54.5
+  40..6      0.429   115.2    37.8  0.0827  0.0382  0.4621   4.4  17.4
+  39..41     0.060   115.2    37.8  0.0827  0.0053  0.0643   0.6   2.4
+  41..8      0.368   115.2    37.8  0.0827  0.0328  0.3964   3.8  15.0
+  41..42     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  42..7      0.488   115.2    37.8  0.0827  0.0436  0.5264   5.0  19.9
+  42..43     0.203   115.2    37.8  0.0827  0.0181  0.2193   2.1   8.3
+  43..1      1.312   115.2    37.8  0.0827  0.1170  1.4146  13.5  53.4
+  43..44     0.027   115.2    37.8  0.0827  0.0024  0.0286   0.3   1.1
+  44..9      0.498   115.2    37.8  0.0827  0.0444  0.5367   5.1  20.3
+  44..10     0.673   115.2    37.8  0.0827  0.0601  0.7258   6.9  27.4
+  25..20     0.409   115.2    37.8  0.0827  0.0365  0.4412   4.2  16.7
+
+
+
+NSsites Model 8: beta&w>1 (11 categories)
+
+TREE #  1:  (11, 19, (((((16, (17, 21)), (15, (3, 18))), (22, 23)), (5, ((12, (13, 14)), (2, ((4, 6), (8, (7, (1, (9, 10))))))))), 20));   MP score: -1
+lnL(ntime: 43  np: 48):  -1675.854808      +0.000000
+  24..11   24..19   24..25   25..26   26..27   27..28   28..29   29..16   29..30   30..17   30..21   28..31   31..15   31..32   32..3    32..18   27..33   33..22   33..23   26..34   34..5    34..35   35..36   36..12   36..37   37..13   37..14   35..38   38..2    38..39   39..40   40..4    40..6    39..41   41..8    41..42   42..7    42..43   43..1    43..44   44..9    44..10   25..20 
+ 0.794883 0.416611 0.214698 0.000004 0.109950 0.107743 0.097337 0.699250 0.036657 0.536843 0.269992 0.034468 0.618646 0.167556 0.708617 0.367322 0.281005 0.090413 0.000004 0.000004 0.878002 0.274730 0.425419 0.149159 0.115400 0.000004 0.000004 0.082829 0.967526 0.286060 0.166746 1.338410 0.428548 0.059614 0.367622 0.000004 0.488244 0.203368 1.311999 0.026545 0.497743 0.673164 0.409187 1.423772 0.999990 0.291972 3.067509 1.000000
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length = 14.702328
+
+(11: 0.794883, 19: 0.416611, (((((16: 0.699250, (17: 0.536843, 21: 0.269992): 0.036657): 0.097337, (15: 0.618646, (3: 0.708617, 18: 0.367322): 0.167556): 0.034468): 0.107743, (22: 0.090413, 23: 0.000004): 0.281005): 0.109950, (5: 0.878002, ((12: 0.149159, (13: 0.000004, 14: 0.000004): 0.115400): 0.425419, (2: 0.967526, ((4: 1.338410, 6: 0.428548): 0.166746, (8: 0.367622, (7: 0.488244, (1: 1.311999, (9: 0.497743, 10: 0.673164): 0.026545): 0.203368): 0.000004): 0.059614): 0.286060): 0.082829): 0.274730): 0.000004): 0.000004, 20: 0.409187): 0.214698);
+
+(XM_0198758: 0.794883, XM_0153720: 0.416611, (((((XM_0298359: 0.699250, (XM_0209353: 0.536843, XM_0263260: 0.269992): 0.036657): 0.097337, (XM_0284558: 0.618646, (XM_0083292: 0.708617, XM_0300584: 0.367322): 0.167556): 0.034468): 0.107743, (XM_0143392: 0.090413, XM_0259063: 0.000004): 0.281005): 0.109950, (XM_0187522: 0.878002, ((XM_0109005: 0.149159, (XM_0215911: 0.000004, XM_0141289: 0.000004): 0.115400): 0.425419, (XM_0128256: 0.967526, ((XM_0691934: 1.338410, NM_0013030: 0.428548): 0.166746, (XM_0177010: 0.367622, (XM_0072470: 0.488244, (XM_0307935: 1.311999, (XM_0270193: 0.497743, NM_0012004: 0.673164): 0.026545): 0.203368): 0.000004): 0.059614): 0.286060): 0.082829): 0.274730): 0.000004): 0.000004, XM_0242725: 0.409187): 0.214698);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.42377
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.99999  p =   0.29197 q =   3.06751
+ (p1 =   0.00001) w =   1.00000
+
+
+MLEs of dN/dS (w) for site classes (K=11)
+
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.00001
+w:   0.00001  0.00038  0.00221  0.00706  0.01696  0.03469  0.06446  0.11374  0.19962  0.38825  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  24..11     0.795   115.2    37.8  0.0827  0.0709  0.8571   8.2  32.4
+  24..19     0.417   115.2    37.8  0.0827  0.0372  0.4492   4.3  17.0
+  24..25     0.215   115.2    37.8  0.0827  0.0192  0.2315   2.2   8.7
+  25..26     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  26..27     0.110   115.2    37.8  0.0827  0.0098  0.1186   1.1   4.5
+  27..28     0.108   115.2    37.8  0.0827  0.0096  0.1162   1.1   4.4
+  28..29     0.097   115.2    37.8  0.0827  0.0087  0.1050   1.0   4.0
+  29..16     0.699   115.2    37.8  0.0827  0.0624  0.7539   7.2  28.5
+  29..30     0.037   115.2    37.8  0.0827  0.0033  0.0395   0.4   1.5
+  30..17     0.537   115.2    37.8  0.0827  0.0479  0.5788   5.5  21.9
+  30..21     0.270   115.2    37.8  0.0827  0.0241  0.2911   2.8  11.0
+  28..31     0.034   115.2    37.8  0.0827  0.0031  0.0372   0.4   1.4
+  31..15     0.619   115.2    37.8  0.0827  0.0552  0.6670   6.4  25.2
+  31..32     0.168   115.2    37.8  0.0827  0.0149  0.1807   1.7   6.8
+  32..3      0.709   115.2    37.8  0.0827  0.0632  0.7640   7.3  28.9
+  32..18     0.367   115.2    37.8  0.0827  0.0328  0.3961   3.8  15.0
+  27..33     0.281   115.2    37.8  0.0827  0.0251  0.3030   2.9  11.4
+  33..22     0.090   115.2    37.8  0.0827  0.0081  0.0975   0.9   3.7
+  33..23     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  26..34     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  34..5      0.878   115.2    37.8  0.0827  0.0783  0.9467   9.0  35.8
+  34..35     0.275   115.2    37.8  0.0827  0.0245  0.2962   2.8  11.2
+  35..36     0.425   115.2    37.8  0.0827  0.0380  0.4587   4.4  17.3
+  36..12     0.149   115.2    37.8  0.0827  0.0133  0.1608   1.5   6.1
+  36..37     0.115   115.2    37.8  0.0827  0.0103  0.1244   1.2   4.7
+  37..13     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  37..14     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  35..38     0.083   115.2    37.8  0.0827  0.0074  0.0893   0.9   3.4
+  38..2      0.968   115.2    37.8  0.0827  0.0863  1.0432   9.9  39.4
+  38..39     0.286   115.2    37.8  0.0827  0.0255  0.3084   2.9  11.6
+  39..40     0.167   115.2    37.8  0.0827  0.0149  0.1798   1.7   6.8
+  40..4      1.338   115.2    37.8  0.0827  0.1194  1.4431  13.8  54.5
+  40..6      0.429   115.2    37.8  0.0827  0.0382  0.4621   4.4  17.4
+  39..41     0.060   115.2    37.8  0.0827  0.0053  0.0643   0.6   2.4
+  41..8      0.368   115.2    37.8  0.0827  0.0328  0.3964   3.8  15.0
+  41..42     0.000   115.2    37.8  0.0827  0.0000  0.0000   0.0   0.0
+  42..7      0.488   115.2    37.8  0.0827  0.0436  0.5264   5.0  19.9
+  42..43     0.203   115.2    37.8  0.0827  0.0181  0.2193   2.1   8.3
+  43..1      1.312   115.2    37.8  0.0827  0.1171  1.4146  13.5  53.4
+  43..44     0.027   115.2    37.8  0.0827  0.0024  0.0286   0.3   1.1
+  44..9      0.498   115.2    37.8  0.0827  0.0444  0.5367   5.1  20.3
+  44..10     0.673   115.2    37.8  0.0827  0.0601  0.7258   6.9  27.4
+  25..20     0.409   115.2    37.8  0.0827  0.0365  0.4412   4.2  16.7
+
+
+Naive Empirical Bayes (NEB) analysis
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: XM_0307935)
+
+            Pr(w>1)     post mean +- SE for w
+
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.003  0.997
+p :   0.772  0.227  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+q :   0.000  0.000  0.003  0.024  0.071  0.120  0.153  0.172  0.198  0.259
+ws:   0.102  0.100  0.100  0.100  0.100  0.100  0.100  0.100  0.100  0.100
