@@ -1,0 +1,3 @@
+22 4
+
+((((Esox_lucius,(Oncorhynchus_mykiss,Salmo_salar)),((((Takifugu_rubripes,((Mastacembelus_armatus,Cynoglossus_semilaevis),((Haplochromis_burtoni,(Oryzias_melastigma,Cyprinodon_variegatus)),(Gouania_willdenowi,Amphiprion_ocellaris)))),Boleophthalmus_pectinirostris),Myripristis_murdjan),Gadus_morhua)),((((Electrophorus_electricus,(Ictalurus_punctatus,(Astyanax_mexicanus,Pygocentrus_nattereri))),Danio_rerio),Chanos_chanos),Clupea_harengus)),Scleropages_formosus);

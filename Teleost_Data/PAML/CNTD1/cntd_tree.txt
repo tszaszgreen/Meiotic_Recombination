@@ -1,0 +1,2 @@
+	23	4
+(Scleropages_formosus,((((((((Cyprinodon_variegatus,Oryzias_melastigma),(Gouania_willdenowi(Haplochromis_burtoni,Oreochromis_niloticus))),((Mastacembelus_armatus,Cynoglossus_semilaevis),(Takifugu_rubripes,Boleophthalmus_pectinirostris))),Hippocampus_comes),Myripristis_murdjan),Gadus_morhua),(Esox_lucius,(Salmo_salar,Oncorhynchus_mykiss))),((((Electrophorus_electricus,(Ictalurus_punctatus,(Astyanax_mexicanus,Pygocentrus_nattereri))),Danio_rerio),Chanos_chanos),Clupea_harengus)));
