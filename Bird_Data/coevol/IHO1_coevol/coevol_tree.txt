@@ -1,0 +1,1 @@
+(((Taeniopygia_guttata:26.08024500,Motacilla_alba_alba:26.08024500)'16':30.30784100,Hirundo_rustica:56.38808600)'19':35.26091901,(Anas_platyrhynchos:83.33100000,(((Gallus_gallus:34.30000000,Meleagris_gallopavo:34.30000000)'15':4.92600000,Coturnix_japonica:39.22600000)'13':11.48397500,Numida_meleagris:50.70997500)'11':32.62102500)'9':8.31800500);
