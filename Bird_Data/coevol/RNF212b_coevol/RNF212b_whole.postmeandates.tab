@@ -1,0 +1,7 @@
+#taxon1	taxon2	min95	max95
+Taeniopygia_guttata	Numida_meleagris	1	1
+Taeniopygia_guttata	Hirundo_rustica	0.360633	0.984974
+Taeniopygia_guttata	Motacilla_alba_alba	0.141105	0.778047
+Gallus_gallus	Numida_meleagris	0.31073	0.964773
+Gallus_gallus	Coturnix_japonica	0.232614	0.845629
+Gallus_gallus	Meleagris_gallopavo	0.165049	0.707208
