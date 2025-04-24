@@ -1,0 +1,21 @@
+name                effsize	rel_diff
+
+#logprior           3990		0
+lnL                 6706		0
+length              1583		0
+dN/dS               974		0
+sigma_1_2           6998		0
+sigma_1_3           2343		0
+sigma_2_3           2158		0
+sigma_1_1           1018		0
+sigma_2_2           1939		0
+sigma_3_3           6803		0
+dim                 7570		0
+root_1              1301		0
+root_2              1048		0
+root_3              7570		0
+statent             7570		0
+rrent               1133		0
+diag0               2705		0
+diag1               7570		0
+diag2               7570		0
