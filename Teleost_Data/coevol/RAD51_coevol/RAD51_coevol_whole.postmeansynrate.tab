@@ -1,0 +1,16 @@
+#taxon1	taxon2	branch_delta_t	min95	max95
+Takifugu_rubripes	Scleropages_formosus	0	0.582459	0.912692
+Takifugu_rubripes	Danio_rerio	0.0506788	0.618424	0.94291
+Takifugu_rubripes	Gadus_morhua	0.143852	0.625976	0.955099
+Takifugu_rubripes	Oryzias_melastigma	0.16962	0.558348	0.894846
+Takifugu_rubripes	Takifugu_rubripes	0.635849	0.437607	1.15348
+Haplochromis_burtoni	Oryzias_melastigma	0.0805152	0.545153	0.891079
+Haplochromis_burtoni	Haplochromis_burtoni	0.555334	0.344171	0.975385
+Oryzias_melastigma	Oryzias_melastigma	0.555334	0.481543	1.00402
+Gadus_morhua	Gadus_morhua	0.805469	0.666496	1.67313
+Ictalurus_punctatus	Danio_rerio	0.190511	0.653941	1.05166
+Ictalurus_punctatus	Astyanax_mexicanus	0.238185	0.668265	1.18444
+Ictalurus_punctatus	Ictalurus_punctatus	0.520625	0.671901	1.72382
+Astyanax_mexicanus	Astyanax_mexicanus	0.520625	0.47772	1.12404
+Danio_rerio	Danio_rerio	0.75881	0.517415	1.1694
+Scleropages_formosus	Scleropages_formosus	1	0.43168	0.9667
