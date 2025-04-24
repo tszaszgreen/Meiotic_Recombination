@@ -1,0 +1,41 @@
+entries are in the following order:
+dS
+omega
+Recombination
+
+covariances
+
+  0.173	 -0.104	-0.0249	
+ -0.104	  0.314	  0.128	
+-0.0249	  0.128	  0.211	
+
+correlation coefficients
+
+      1	 -0.223	 -0.103	
+ -0.223	      1	  0.419	
+ -0.103	  0.419	      1	
+
+posterior probs
+
+  -	0.38	0.44	
+0.38	  -	0.73	
+0.44	0.73	  -	
+
+precisions
+
+1.11e+03	   88.8	   6.64	
+   88.8	    948	   -125	
+   6.64	   -125	    311	
+
+partial correlation coefficients
+
+     -1	 -0.128	 0.0113	
+ -0.128	     -1	  0.281	
+ 0.0113	  0.281	     -1	
+
+posterior probs
+
+  -	0.41	0.51	
+0.41	  -	0.68	
+0.51	0.68	  -	
+
