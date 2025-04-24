@@ -1,0 +1,16 @@
+#taxon1	taxon2	branch_delta_t	min95	max95
+Taeniopygia_guttata	Numida_meleagris	0	1	1
+Taeniopygia_guttata	Hirundo_rustica	0.766687	0.00810397	0.0239838
+Taeniopygia_guttata	Motacilla_alba_alba	0.0286778	0.00811203	0.0270487
+Taeniopygia_guttata	Taeniopygia_guttata	0.204635	0.00793438	0.0261698
+Motacilla_alba_alba	Motacilla_alba_alba	0.204635	0.00762609	0.0402018
+Hirundo_rustica	Hirundo_rustica	0.233313	0.00808121	0.0264892
+Anas_platyrhynchos	Numida_meleagris	0.457596	0.00736885	0.0236279
+Anas_platyrhynchos	Anas_platyrhynchos	0.542404	0.00875911	0.0259807
+Gallus_gallus	Numida_meleagris	0.130021	0.00798962	0.0239741
+Gallus_gallus	Coturnix_japonica	0.23015	0.00813925	0.0244965
+Gallus_gallus	Meleagris_gallopavo	0.0492668	0.00772978	0.0276193
+Gallus_gallus	Gallus_gallus	0.132966	0.00768543	0.0306939
+Meleagris_gallopavo	Meleagris_gallopavo	0.132966	0.0080769	0.0278529
+Coturnix_japonica	Coturnix_japonica	0.182233	0.00801242	0.0254962
+Numida_meleagris	Numida_meleagris	0.412383	0.00690453	0.0240143
