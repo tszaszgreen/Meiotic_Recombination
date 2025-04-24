@@ -1,0 +1,3 @@
+16 4
+
+(((Esox_lucius,(((Takifugu_rubripes,(Cynoglossus_semilaevis,(((Haplochromis_burtoni,Oreochromis_niloticus),Oryzias_melastigma),Gouania_willdenowi))),Myripristis_murdjan),Gadus_morhua)),(((Electrophorus_electricus,(Ictalurus_punctatus,(Astyanax_mexicanus,Pygocentrus_nattereri))),Chanos_chanos),Clupea_harengus)),Scleropages_formosus);
