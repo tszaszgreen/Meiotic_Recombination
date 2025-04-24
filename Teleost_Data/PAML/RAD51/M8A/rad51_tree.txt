@@ -1,0 +1,3 @@
+18 4
+
+((((((Takifugu_rubripes,(Mastacembelus_armatus,(((Haplochromis_burtoni,Oreochromis_niloticus),(Oryzias_melastigma,Cyprinodon_variegatus)),(Gouania_willdenowi,Amphiprion_ocellaris)))),Boleophthalmus_pectinirostris),Myripristis_murdjan),Gadus_morhua),(((Electrophorus_electricus,(Ictalurus_punctatus,(Astyanax_mexicanus,Pygocentrus_nattereri))),Danio_rerio),Chanos_chanos)),Scleropages_formosus);
