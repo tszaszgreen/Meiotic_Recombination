@@ -1,0 +1,21 @@
+
+23  1
+(Scleropage, (((((((Cyprinodon, Oryzias_me), (Amphiprion, Gouania_wi), (Haplochrom, Oreochromi)), ((Mastacembe, Cynoglossu), (Takifugu_r, Boleophtha))), Myripristi), Gadus_morh), (Esox_luciu, (Salmo_sala, Oncorhynch))), ((((Electropho, (Ictalurus, (Astyanax_m, Pygocentru))), Danio_reri), Chanos_cha), Clupea_har)));
+
+23  1
+(Scleropage, ((((((((Cyprinodon, Oryzias_me), (Amphiprion, Gouania_wi), (Haplochrom, Oreochromi)), (Mastacembe, (Takifugu_r, Boleophtha))), Hippocampu), Myripristi), Gadus_morh), (Esox_luciu, (Salmo_sala, Oncorhynch))), ((((Electropho, (Ictalurus, (Astyanax_m, Pygocentru))), Danio_reri), Chanos_cha), Clupea_har)));
+
+23  1
+(Scleropage, ((((((((Cyprinodon, Oryzias_me), (Amphiprion, Gouania_wi), (Haplochrom, Oreochromi)), ((Mastacembe, Cynoglossu), (Takifugu_r, Boleophtha))), Hippocampu), Myripristi), Gadus_morh), (Esox_luciu, Salmo_sala)), ((((Electropho, (Ictalurus, (Astyanax_m, Pygocentru))), Danio_reri), Chanos_cha), Clupea_har)));
+
+23  1
+(Lepisosteu, (Scleropage, ((((((((Cyprinodon, Oryzias_me), Amphiprion, (Haplochrom, Oreochromi)), ((Mastacembe, Cynoglossu), (Takifugu_r, Boleophtha))), Hippocampu), Myripristi), Gadus_morh), (Esox_luciu, (Salmo_sala, Oncorhynch))), ((((Electropho, (Astyanax_m, Pygocentru)), Danio_reri), Chanos_cha), Clupea_har))));
+
+22  1
+(Scleropage, ((((((((Cyprinodon, Oryzias_me), (Amphiprion, Gouania_wi), (Haplochrom, Oreochromi)), ((Mastacembe, Cynoglossu), (Takifugu_r, Boleophtha))), Hippocampu), Myripristi), Gadus_morh), Esox_luciu), ((((Electropho, (Ictalurus, (Astyanax_m, Pygocentru))), Danio_reri), Chanos_cha), Clupea_har)));
+
+21  1
+(Scleropage, ((((((((Cyprinodon, Oryzias_me), (Amphiprion, Gouania_wi), (Haplochrom, Oreochromi)), ((Mastacembe, Cynoglossu), (Takifugu_r, Boleophtha))), Hippocampu), Myripristi), Gadus_morh), Esox_luciu), (((Electropho, (Ictalurus, (Astyanax_m, Pygocentru))), Danio_reri), Chanos_cha)));
+
+20  1
+(Scleropage, (((((((Cyprinodon, Oryzias_me), (Amphiprion, Gouania_wi), Haplochrom), ((Mastacembe, Cynoglossu), (Takifugu_r, Boleophtha))), Myripristi), Gadus_morh), Esox_luciu), ((((Electropho, (Ictalurus, (Astyanax_m, Pygocentru))), Danio_reri), Chanos_cha), Clupea_har)));
